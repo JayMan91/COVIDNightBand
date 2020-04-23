@@ -68,7 +68,8 @@ namp = gpd.read_file("maps-master/Districts/Census_2011/2011_Dist.shp")
 gdf=  gpd.sjoin( gdf,namp, how="left", op='intersects')
 gdf = gdf[gdf['DISTRICT'].notnull()]
 gdf = gdf[gdf['ST_NM']=='West Bengal']
-table_df = gdf.groupby(["DISTRICT"]).agg({"NB":['count',np.sum, np.mean,np.std]}).reset_index()
+table_df = gdf.groupby(["DISTRICT"]).agg({"NB":['count',np.sum, 
+	np.mean,np.std]}).reset_index()
 table_df.columns = ['DISTRICT','count','sum','mean','std']
 op_file = args.input+ "WB_table.pickle"
 table_df.to_pickle(op_file)
