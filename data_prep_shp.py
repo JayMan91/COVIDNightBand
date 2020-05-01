@@ -42,6 +42,8 @@ covid_shp = covid.merge(namp,left_on=['State Code', 'District Name'],
                                   right_on=['ST_CEN_CD','DISTRICT'],how='outer')
 
 covid_shp['Slum Proportion'] = covid_shp['Slum Population']/covid_shp['Total Population']
+print(covid_shp[['covidcount','Slum Proportion',
+	'Population per sq. km.','Urban_Proportion']].corr(method='spearman'))
 covid_shp.to_csv("shp_districts.csv")
 covid_shp = gpd.GeoDataFrame(covid_shp)
 
