@@ -1,64 +1,64 @@
 State Code,District Code,State Name,District Name,District Population,Area In sq. km,Population per sq. km.,Slum Population,state,state_code,district,recovered,deceased,confirmed,active
-1.0,1.0,jammu & kashmir,kupwara,870354.0,2379.0,366.0,20475.0,jammu and kashmir,JK,kupwara,19.0,0.0,49.0,30.0
-1.0,2.0,jammu & kashmir,badgam,753745.0,1361.0,554.0,32032.0,jammu and kashmir,JK,badgam,10.0,0.0,20.0,10.0
-1.0,3.0,jammu & kashmir,leh(ladakh),133487.0,45110.0,3.0,7763.0,,,,,,,
-1.0,4.0,jammu & kashmir,kargil,140802.0,14036.0,10.0,,,,,,,,
+1.0,1.0,jammu & kashmir,kupwara,870354.0,2379.0,366.0,20475.0,jammu and kashmir,JK,kupwara,21.0,0.0,55.0,34.0
+1.0,2.0,jammu & kashmir,badgam,753745.0,1361.0,554.0,32032.0,jammu and kashmir,JK,badgam,11.0,0.0,21.0,10.0
+1.0,3.0,jammu & kashmir,leh(ladakh),133487.0,45110.0,3.0,7763.0,ladakh,LA,leh,13.0,0.0,15.0,2.0
+1.0,4.0,jammu & kashmir,kargil,140802.0,14036.0,10.0,,ladakh,LA,kargil,4.0,0.0,8.0,4.0
 1.0,5.0,jammu & kashmir,punch,476835.0,1674.0,285.0,,,,,,,,
 1.0,6.0,jammu & kashmir,rajouri,642415.0,2630.0,244.0,3935.0,jammu and kashmir,JK,rajouri,3.0,0.0,4.0,1.0
 1.0,7.0,jammu & kashmir,kathua,616435.0,2502.0,246.0,8363.0,jammu and kashmir,JK,kathua,0.0,0.0,1.0,1.0
-1.0,8.0,jammu & kashmir,baramula,1008039.0,4243.0,238.0,70754.0,jammu and kashmir,JK,baramula,21.0,3.0,84.0,60.0
-1.0,9.0,jammu & kashmir,bandipore,392232.0,345.0,1137.0,47545.0,jammu and kashmir,JK,bandipore,24.0,1.0,127.0,102.0
-1.0,10.0,jammu & kashmir,srinagar,1236829.0,1979.0,625.0,343125.0,jammu and kashmir,JK,srinagar,68.0,2.0,89.0,19.0
-1.0,11.0,jammu & kashmir,ganderbal,297446.0,259.0,1148.0,,jammu and kashmir,JK,ganderbal,5.0,0.0,14.0,9.0
+1.0,8.0,jammu & kashmir,baramula,1008039.0,4243.0,238.0,70754.0,jammu and kashmir,JK,baramula,26.0,3.0,88.0,59.0
+1.0,9.0,jammu & kashmir,bandipore,392232.0,345.0,1137.0,47545.0,jammu and kashmir,JK,bandipore,36.0,1.0,128.0,91.0
+1.0,10.0,jammu & kashmir,srinagar,1236829.0,1979.0,625.0,343125.0,jammu and kashmir,JK,srinagar,69.0,2.0,106.0,35.0
+1.0,11.0,jammu & kashmir,ganderbal,297446.0,259.0,1148.0,,jammu and kashmir,JK,ganderbal,14.0,0.0,14.0,0.0
 1.0,12.0,jammu & kashmir,pulwama,560440.0,1086.0,516.0,14827.0,jammu and kashmir,JK,pulwama,3.0,0.0,7.0,4.0
-1.0,13.0,jammu & kashmir,shupiyan,266215.0,312.0,853.0,8822.0,jammu and kashmir,JK,shupiyan,13.0,0.0,72.0,59.0
-1.0,14.0,jammu & kashmir,anantnag,1078692.0,3574.0,302.0,28072.0,jammu and kashmir,JK,anantnag,0.0,1.0,83.0,82.0
-1.0,15.0,jammu & kashmir,kulgam,424483.0,410.0,1035.0,39067.0,jammu and kashmir,JK,kulgam,2.0,0.0,11.0,9.0
+1.0,13.0,jammu & kashmir,shupiyan,266215.0,312.0,853.0,8822.0,jammu and kashmir,JK,shupiyan,19.0,0.0,77.0,58.0
+1.0,14.0,jammu & kashmir,anantnag,1078692.0,3574.0,302.0,28072.0,jammu and kashmir,JK,anantnag,1.0,1.0,99.0,97.0
+1.0,15.0,jammu & kashmir,kulgam,424483.0,410.0,1035.0,39067.0,jammu and kashmir,JK,kulgam,3.0,0.0,11.0,8.0
 1.0,16.0,jammu & kashmir,doda,409936.0,8912.0,46.0,2843.0,,,,,,,
 1.0,17.0,jammu & kashmir,ramban,283713.0,1329.0,213.0,0.0,jammu and kashmir,JK,ramban,0.0,0.0,1.0,1.0
 1.0,18.0,jammu & kashmir,kishtwar,230696.0,1644.0,140.0,,jammu and kashmir,JK,kishtwar,1.0,0.0,1.0,0.0
 1.0,19.0,jammu & kashmir,udhampur,554985.0,2637.0,210.0,5055.0,jammu and kashmir,JK,udhampur,17.0,1.0,20.0,2.0
 1.0,20.0,jammu & kashmir,reasi,314667.0,1719.0,183.0,,jammu and kashmir,JK,reasi,0.0,0.0,1.0,1.0
 1.0,21.0,jammu & kashmir,jammu,1529958.0,2342.0,653.0,12228.0,jammu and kashmir,JK,jammu,26.0,0.0,26.0,0.0
-1.0,22.0,jammu & kashmir,samba,318898.0,904.0,353.0,2752.0,jammu and kashmir,JK,samba,4.0,0.0,4.0,0.0
-2.0,23.0,himachal pradesh,chamba,519080.0,6522.0,80.0,,himachal pradesh,HP,chamba,5.0,0.0,6.0,1.0
+1.0,22.0,jammu & kashmir,samba,318898.0,904.0,353.0,2752.0,jammu and kashmir,JK,samba,4.0,0.0,6.0,2.0
+2.0,23.0,himachal pradesh,chamba,519080.0,6522.0,80.0,,himachal pradesh,HP,chamba,6.0,0.0,6.0,0.0
 2.0,24.0,himachal pradesh,kangra,1510075.0,5739.0,263.0,1536.0,himachal pradesh,HP,kangra,4.0,1.0,5.0,0.0
 2.0,25.0,himachal pradesh,lahul & spiti,31564.0,13841.0,2.0,,,,,,,,
 2.0,26.0,himachal pradesh,kullu,437903.0,5503.0,80.0,820.0,,,,,,,
 2.0,27.0,himachal pradesh,mandi,999777.0,3950.0,253.0,4540.0,,,,,,,
-2.0,28.0,himachal pradesh,hamirpur,454768.0,1118.0,407.0,2218.0,himachal pradesh,HP,hamirpur,0.0,0.0,2.0,2.0
-2.0,29.0,himachal pradesh,una,521173.0,1540.0,338.0,950.0,himachal pradesh,HP,una,13.0,0.0,16.0,3.0
+2.0,28.0,himachal pradesh,hamirpur,454768.0,1118.0,407.0,2218.0,himachal pradesh,HP,hamirpur,2.0,0.0,2.0,0.0
+2.0,29.0,himachal pradesh,una,521173.0,1540.0,338.0,950.0,himachal pradesh,HP,una,15.0,0.0,16.0,1.0
 2.0,30.0,himachal pradesh,bilaspur,381956.0,1167.0,327.0,8267.0,,,,,,,
 2.0,31.0,himachal pradesh,solan,580320.0,1936.0,300.0,2605.0,himachal pradesh,HP,solan,5.0,1.0,9.0,3.0
 2.0,32.0,himachal pradesh,sirmaur,529855.0,2825.0,188.0,22461.0,himachal pradesh,HP,sirmaur,1.0,0.0,2.0,1.0
 2.0,33.0,himachal pradesh,shimla,814010.0,5131.0,159.0,7173.0,,,,,,,
 2.0,34.0,himachal pradesh,kinnaur,84121.0,6401.0,13.0,,,,,,,,
-3.0,35.0,punjab,gurdaspur,2298323.0,3551.0,647.0,87565.0,punjab,PB,gurdaspur,0.0,1.0,4.0,3.0
-3.0,36.0,punjab,kapurthala,815168.0,1633.0,499.0,17115.0,punjab,PB,kapurthala,2.0,1.0,12.0,9.0
-3.0,37.0,punjab,jalandhar,2193590.0,2624.0,836.0,191327.0,punjab,PB,jalandhar,8.0,4.0,89.0,77.0
-3.0,38.0,punjab,hoshiarpur,1586625.0,3386.0,469.0,39427.0,punjab,PB,hoshiarpur,5.0,1.0,11.0,5.0
+3.0,35.0,punjab,gurdaspur,2298323.0,3551.0,647.0,87565.0,punjab,PB,gurdaspur,0.0,1.0,5.0,4.0
+3.0,36.0,punjab,kapurthala,815168.0,1633.0,499.0,17115.0,punjab,PB,kapurthala,2.0,1.0,13.0,10.0
+3.0,37.0,punjab,jalandhar,2193590.0,2624.0,836.0,191327.0,punjab,PB,jalandhar,8.0,4.0,120.0,108.0
+3.0,38.0,punjab,hoshiarpur,1586625.0,3386.0,469.0,39427.0,punjab,PB,hoshiarpur,6.0,1.0,42.0,35.0
 3.0,39.0,punjab,shahid bhagat singh nagar,612310.0,1282.0,478.0,,punjab,PB,shahid bhagat singh nagar,18.0,1.0,23.0,4.0
-3.0,40.0,punjab,fatehgarh sahib,600163.0,1180.0,509.0,,punjab,PB,fatehgarh sahib,2.0,0.0,2.0,0.0
-3.0,41.0,punjab,ludhiana,3498739.0,3578.0,978.0,296237.0,punjab,PB,ludhiana,6.0,4.0,63.0,53.0
-3.0,42.0,punjab,moga,995746.0,2242.0,444.0,30774.0,punjab,PB,moga,4.0,0.0,5.0,1.0
-3.0,43.0,punjab,firozpur,2029074.0,5305.0,382.0,105105.0,punjab,PB,firozpur,0.0,0.0,2.0,2.0
+3.0,40.0,punjab,fatehgarh sahib,600163.0,1180.0,509.0,,punjab,PB,fatehgarh sahib,2.0,0.0,9.0,7.0
+3.0,41.0,punjab,ludhiana,3498739.0,3578.0,978.0,296237.0,punjab,PB,ludhiana,6.0,4.0,97.0,87.0
+3.0,42.0,punjab,moga,995746.0,2242.0,444.0,30774.0,punjab,PB,moga,4.0,0.0,28.0,24.0
+3.0,43.0,punjab,firozpur,2029074.0,5305.0,382.0,105105.0,punjab,PB,firozpur,0.0,0.0,26.0,26.0
 3.0,44.0,punjab,muktsar,901896.0,2593.0,348.0,81648.0,,,,,,,
 3.0,45.0,punjab,faridkot,617508.0,1458.0,424.0,73708.0,punjab,PB,faridkot,2.0,0.0,6.0,4.0
 3.0,46.0,punjab,bathinda,1388525.0,3353.0,414.0,57591.0,punjab,PB,bathinda,0.0,0.0,2.0,2.0
-3.0,47.0,punjab,mansa,769751.0,2198.0,350.0,33351.0,punjab,PB,mansa,3.0,0.0,13.0,10.0
-3.0,48.0,punjab,patiala,1895686.0,3325.0,570.0,15636.0,punjab,PB,patiala,2.0,1.0,64.0,61.0
-3.0,49.0,punjab,amritsar,2490656.0,2683.0,928.0,336130.0,punjab,PB,amritsar,6.0,2.0,42.0,34.0
+3.0,47.0,punjab,mansa,769751.0,2198.0,350.0,33351.0,punjab,PB,mansa,4.0,0.0,13.0,9.0
+3.0,48.0,punjab,patiala,1895686.0,3325.0,570.0,15636.0,punjab,PB,patiala,2.0,1.0,86.0,83.0
+3.0,49.0,punjab,amritsar,2490656.0,2683.0,928.0,336130.0,punjab,PB,amritsar,8.0,2.0,143.0,133.0
 3.0,50.0,punjab,tarn taran,1119627.0,2414.0,464.0,47715.0,punjab,PB,tarn taran,0.0,0.0,14.0,14.0
-3.0,51.0,punjab,rupnagar,684627.0,1356.0,505.0,1275.0,punjab,PB,rupnagar,2.0,1.0,5.0,2.0
-3.0,52.0,punjab,sahibzada ajit singh nagar,994628.0,1094.0,909.0,18771.0,punjab,PB,s.a.s. nagar,31.0,2.0,86.0,53.0
-3.0,53.0,punjab,sangrur,1655169.0,3625.0,457.0,27418.0,punjab,PB,sangrur,3.0,0.0,6.0,3.0
+3.0,51.0,punjab,rupnagar,684627.0,1356.0,505.0,1275.0,punjab,PB,rupnagar,2.0,1.0,6.0,3.0
+3.0,52.0,punjab,sahibzada ajit singh nagar,994628.0,1094.0,909.0,18771.0,punjab,PB,s.a.s. nagar,34.0,2.0,94.0,58.0
+3.0,53.0,punjab,sangrur,1655169.0,3625.0,457.0,27418.0,punjab,PB,sangrur,3.0,0.0,7.0,4.0
 3.0,54.0,punjab,barnala,595527.0,1482.0,402.0,,punjab,PB,barnala,1.0,1.0,2.0,0.0
-4.0,55.0,chandigarh,chandigarh,1055450.0,114.0,9258.0,95137.0,chandigarh,CH,chandigarh,18.0,0.0,74.0,56.0
+4.0,55.0,chandigarh,chandigarh,1055450.0,114.0,9258.0,95137.0,chandigarh,CH,chandigarh,19.0,0.0,94.0,75.0
 5.0,56.0,uttarakhand,uttarkashi,330086.0,8016.0,41.0,0.0,,,,,,,
 5.0,57.0,uttarakhand,chamoli,391605.0,8030.0,49.0,1860.0,,,,,,,
 5.0,58.0,uttarakhand,rudraprayag,242285.0,1984.0,122.0,0.0,,,,,,,
 5.0,59.0,uttarakhand,tehri garhwal,618931.0,3642.0,170.0,2048.0,uttarakhand,UT,pauri garhwal,1.0,0.0,1.0,0.0
-5.0,60.0,uttarakhand,dehradun,1696694.0,3088.0,549.0,194897.0,uttarakhand,UT,dehradun,14.0,0.0,31.0,17.0
+5.0,60.0,uttarakhand,dehradun,1696694.0,3088.0,549.0,194897.0,uttarakhand,UT,dehradun,19.0,0.0,33.0,14.0
 5.0,61.0,uttarakhand,garhwal,687271.0,5329.0,129.0,2390.0,,,,,,,
 5.0,62.0,uttarakhand,pithoragarh,483439.0,7090.0,68.0,1400.0,,,,,,,
 5.0,63.0,uttarakhand,bageshwar,259898.0,2241.0,116.0,2782.0,,,,,,,
@@ -68,25 +68,25 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 5.0,67.0,uttarakhand,udham singh nagar,1648902.0,2542.0,649.0,155256.0,uttarakhand,UT,udham singh nagar,4.0,0.0,7.0,3.0
 5.0,68.0,uttarakhand,hardwar,1890422.0,2360.0,801.0,86282.0,uttarakhand,UT,haridwar,5.0,0.0,7.0,2.0
 6.0,69.0,haryana,panchkula,561293.0,898.0,625.0,49117.0,haryana,HR,panchkula,17.0,0.0,18.0,1.0
-6.0,70.0,haryana,ambala,1128350.0,1574.0,717.0,69299.0,haryana,HR,ambala,10.0,1.0,14.0,3.0
-6.0,71.0,haryana,yamunanagar,1214205.0,1768.0,687.0,93568.0,haryana,HR,yamunanagar,3.0,0.0,3.0,0.0
+6.0,70.0,haryana,ambala,1128350.0,1574.0,717.0,69299.0,haryana,HR,ambala,11.0,1.0,14.0,2.0
+6.0,71.0,haryana,yamunanagar,1214205.0,1768.0,687.0,93568.0,haryana,HR,yamunanagar,3.0,0.0,4.0,1.0
 6.0,72.0,haryana,kurukshetra,964655.0,1530.0,630.0,69032.0,haryana,HR,kurukshetra,2.0,0.0,2.0,0.0
 6.0,73.0,haryana,kaithal,1074304.0,2317.0,464.0,92781.0,haryana,HR,kaithal,2.0,0.0,2.0,0.0
 6.0,74.0,haryana,karnal,1505324.0,2520.0,597.0,78763.0,haryana,HR,karnal,5.0,1.0,6.0,0.0
 6.0,75.0,haryana,panipat,1205437.0,1268.0,951.0,22190.0,haryana,HR,panipat,5.0,0.0,13.0,8.0
-6.0,76.0,haryana,sonipat,1450001.0,2122.0,683.0,117603.0,haryana,HR,sonipat,4.0,0.0,25.0,21.0
+6.0,76.0,haryana,sonipat,1450001.0,2122.0,683.0,117603.0,haryana,HR,sonipat,4.0,0.0,26.0,22.0
 6.0,77.0,haryana,jind,1334152.0,2702.0,494.0,121261.0,haryana,HR,jind,2.0,0.0,2.0,0.0
 6.0,78.0,haryana,fatehabad,942011.0,2538.0,371.0,53036.0,haryana,HR,fatehabad,1.0,0.0,1.0,0.0
-6.0,79.0,haryana,sirsa,1295189.0,4277.0,303.0,30750.0,haryana,HR,sirsa,4.0,0.0,4.0,0.0
+6.0,79.0,haryana,sirsa,1295189.0,4277.0,303.0,30750.0,haryana,HR,sirsa,4.0,0.0,6.0,2.0
 6.0,80.0,haryana,hisar,1743931.0,3983.0,438.0,171007.0,haryana,HR,hisar,2.0,0.0,4.0,2.0
 6.0,81.0,haryana,bhiwani,1634445.0,4778.0,342.0,61046.0,haryana,HR,bhiwani,2.0,0.0,3.0,1.0
-6.0,82.0,haryana,rohtak,1061204.0,1745.0,608.0,55981.0,haryana,HR,rohtak,0.0,1.0,4.0,3.0
-6.0,83.0,haryana,jhajjar,958405.0,1834.0,523.0,75878.0,haryana,HR,jhajjar,0.0,0.0,24.0,24.0
+6.0,82.0,haryana,rohtak,1061204.0,1745.0,608.0,55981.0,haryana,HR,rohtak,2.0,1.0,4.0,1.0
+6.0,83.0,haryana,jhajjar,958405.0,1834.0,523.0,75878.0,haryana,HR,jhajjar,0.0,0.0,40.0,40.0
 6.0,84.0,haryana,mahendragarh,922088.0,1899.0,486.0,26838.0,,,,,,,
 6.0,85.0,haryana,rewari,900332.0,1594.0,565.0,64902.0,,,,,,,
-6.0,86.0,haryana,gurgaon,1514432.0,1258.0,1204.0,158251.0,haryana,HR,gurugram,38.0,0.0,54.0,16.0
+6.0,86.0,haryana,gurgaon,1514432.0,1258.0,1204.0,158251.0,haryana,HR,gurugram,38.0,0.0,63.0,25.0
 6.0,87.0,haryana,mewat,1089263.0,1507.0,723.0,27131.0,,,,,,,
-6.0,88.0,haryana,faridabad,1809733.0,741.0,2442.0,212359.0,haryana,HR,faridabad,41.0,1.0,53.0,11.0
+6.0,88.0,haryana,faridabad,1809733.0,741.0,2442.0,212359.0,haryana,HR,faridabad,42.0,1.0,61.0,18.0
 6.0,89.0,haryana,palwal,1042708.0,1359.0,767.0,20628.0,haryana,HR,palwal,32.0,0.0,34.0,2.0
 7.0,90.0,nct of delhi,north west,3656539.0,443.0,8254.0,,delhi,DL,north west delhi,0.0,0.0,32.0,32.0
 7.0,91.0,nct of delhi,north,887978.0,61.0,14557.0,,delhi,DL,north delhi,0.0,0.0,60.0,60.0
@@ -101,80 +101,80 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 8.0,100.0,rajasthan,hanumangarh,1774692.0,9656.0,184.0,72257.0,rajasthan,RJ,hanumangarh,10.0,0.0,11.0,1.0
 8.0,101.0,rajasthan,bikaner,2363937.0,30239.0,78.0,130969.0,rajasthan,RJ,bikaner,36.0,1.0,37.0,0.0
 8.0,102.0,rajasthan,churu,2039547.0,13835.0,147.0,21857.0,rajasthan,RJ,churu,14.0,0.0,14.0,0.0
-8.0,103.0,rajasthan,jhunjhunun,2137045.0,5928.0,361.0,,rajasthan,RJ,jhunjhunu,33.0,0.0,42.0,9.0
-8.0,104.0,rajasthan,alwar,3674179.0,8380.0,438.0,4476.0,rajasthan,RJ,alwar,5.0,1.0,9.0,3.0
-8.0,105.0,rajasthan,bharatpur,2548462.0,5066.0,503.0,35433.0,rajasthan,RJ,bharatpur,6.0,2.0,111.0,103.0
-8.0,106.0,rajasthan,dhaulpur,1206516.0,3033.0,398.0,18271.0,rajasthan,RJ,dhaulpur,1.0,0.0,12.0,11.0
+8.0,103.0,rajasthan,jhunjhunun,2137045.0,5928.0,361.0,,rajasthan,RJ,jhunjhunu,39.0,0.0,42.0,3.0
+8.0,104.0,rajasthan,alwar,3674179.0,8380.0,438.0,4476.0,rajasthan,RJ,alwar,5.0,1.0,11.0,5.0
+8.0,105.0,rajasthan,bharatpur,2548462.0,5066.0,503.0,35433.0,rajasthan,RJ,bharatpur,86.0,2.0,111.0,23.0
+8.0,106.0,rajasthan,dhaulpur,1206516.0,3033.0,398.0,18271.0,,,,,,,
 8.0,107.0,rajasthan,karauli,1458248.0,5524.0,264.0,,rajasthan,RJ,karauli,2.0,0.0,3.0,1.0
 8.0,108.0,rajasthan,sawai madhopur,1335551.0,4498.0,297.0,5662.0,rajasthan,RJ,sawai madhopur,4.0,0.0,8.0,4.0
 8.0,109.0,rajasthan,dausa,1634409.0,3432.0,476.0,2175.0,rajasthan,RJ,dausa,8.0,0.0,21.0,13.0
-8.0,110.0,rajasthan,jaipur,6626178.0,11143.0,595.0,315212.0,rajasthan,RJ,jaipur,321.0,32.0,907.0,554.0
+8.0,110.0,rajasthan,jaipur,6626178.0,11143.0,595.0,315212.0,rajasthan,RJ,jaipur,350.0,36.0,945.0,559.0
 8.0,111.0,rajasthan,sikar,2677333.0,7732.0,346.0,2670.0,rajasthan,RJ,sikar,2.0,2.0,6.0,2.0
-8.0,112.0,rajasthan,nagaur,3307743.0,17718.0,187.0,23289.0,rajasthan,RJ,nagaur,13.0,1.0,118.0,104.0
-8.0,113.0,rajasthan,jodhpur,3687165.0,22850.0,161.0,270334.0,rajasthan,RJ,jodhpur,120.0,6.0,510.0,384.0
+8.0,112.0,rajasthan,nagaur,3307743.0,17718.0,187.0,23289.0,rajasthan,RJ,nagaur,13.0,2.0,118.0,103.0
+8.0,113.0,rajasthan,jodhpur,3687165.0,22850.0,161.0,270334.0,rajasthan,RJ,jodhpur,124.0,8.0,575.0,443.0
 8.0,114.0,rajasthan,jaisalmer,669919.0,38401.0,17.0,18856.0,rajasthan,RJ,jaisalmer,30.0,0.0,35.0,5.0
 8.0,115.0,rajasthan,barmer,2603751.0,28387.0,92.0,39493.0,rajasthan,RJ,barmer,1.0,0.0,2.0,1.0
 8.0,116.0,rajasthan,jalor,1828730.0,10640.0,172.0,10914.0,,,,,,,
 8.0,117.0,rajasthan,sirohi,1036346.0,5136.0,202.0,20287.0,,,,,,,
 8.0,118.0,rajasthan,pali,2037573.0,12387.0,164.0,56154.0,rajasthan,RJ,pali,2.0,0.0,12.0,10.0
-8.0,119.0,rajasthan,ajmer,2583052.0,8481.0,305.0,137191.0,rajasthan,RJ,ajmer,13.0,0.0,150.0,137.0
-8.0,120.0,rajasthan,tonk,1421326.0,7194.0,198.0,533.0,rajasthan,RJ,tonk,35.0,1.0,134.0,98.0
+8.0,119.0,rajasthan,ajmer,2583052.0,8481.0,305.0,137191.0,rajasthan,RJ,ajmer,14.0,0.0,164.0,150.0
+8.0,120.0,rajasthan,tonk,1421326.0,7194.0,198.0,533.0,rajasthan,RJ,tonk,89.0,1.0,134.0,44.0
 8.0,121.0,rajasthan,bundi,1110906.0,5776.0,192.0,5510.0,,,,,,,
 8.0,122.0,rajasthan,bhilwara,2408523.0,10455.0,230.0,39609.0,rajasthan,RJ,bhilwara,30.0,2.0,37.0,5.0
-8.0,123.0,rajasthan,rajsamand,1156597.0,4655.0,248.0,1480.0,rajasthan,RJ,rajsamand,0.0,0.0,1.0,1.0
+8.0,123.0,rajasthan,rajsamand,1156597.0,4655.0,248.0,1480.0,rajasthan,RJ,rajsamand,0.0,0.0,2.0,2.0
 8.0,124.0,rajasthan,dungarpur,1388552.0,3770.0,368.0,750.0,rajasthan,RJ,dungarpur,5.0,0.0,6.0,1.0
-8.0,125.0,rajasthan,banswara,1797485.0,4522.0,397.0,15067.0,rajasthan,RJ,banswara,31.0,0.0,66.0,35.0
-8.0,126.0,rajasthan,chittaurgarh,1544338.0,7822.0,197.0,28273.0,rajasthan,RJ,chittaurgarh,0.0,1.0,19.0,18.0
-8.0,127.0,rajasthan,kota,1951014.0,5217.0,374.0,170737.0,rajasthan,RJ,kota,109.0,7.0,197.0,81.0
+8.0,125.0,rajasthan,banswara,1797485.0,4522.0,397.0,15067.0,rajasthan,RJ,banswara,41.0,0.0,66.0,25.0
+8.0,126.0,rajasthan,chittaurgarh,1544338.0,7822.0,197.0,28273.0,,,,,,,
+8.0,127.0,rajasthan,kota,1951014.0,5217.0,374.0,170737.0,rajasthan,RJ,kota,125.0,7.0,205.0,73.0
 8.0,128.0,rajasthan,baran,1222755.0,6992.0,175.0,41963.0,rajasthan,RJ,baran,0.0,0.0,1.0,1.0
-8.0,129.0,rajasthan,jhalawar,1411129.0,6219.0,227.0,10954.0,rajasthan,RJ,jhalawar,20.0,0.0,40.0,20.0
-8.0,130.0,rajasthan,udaipur,3068420.0,11724.0,262.0,46024.0,rajasthan,RJ,udaipur,4.0,0.0,8.0,4.0
+8.0,129.0,rajasthan,jhalawar,1411129.0,6219.0,227.0,10954.0,rajasthan,RJ,jhalawar,28.0,0.0,40.0,12.0
+8.0,130.0,rajasthan,udaipur,3068420.0,11724.0,262.0,46024.0,rajasthan,RJ,udaipur,6.0,0.0,8.0,2.0
 8.0,131.0,rajasthan,pratapgarh,867848.0,4449.0,195.0,6209.0,rajasthan,RJ,pratapgarh,2.0,0.0,2.0,0.0
-9.0,132.0,uttar pradesh,saharanpur,3466382.0,3689.0,940.0,258481.0,uttar pradesh,UP,saharanpur,13.0,0.0,187.0,174.0
+9.0,132.0,uttar pradesh,saharanpur,3466382.0,3689.0,940.0,258481.0,uttar pradesh,UP,saharanpur,16.0,0.0,192.0,176.0
 9.0,133.0,uttar pradesh,muzaffarnagar,4143512.0,4008.0,1034.0,28776.0,uttar pradesh,UP,muzaffarnagar,9.0,0.0,23.0,14.0
-9.0,134.0,uttar pradesh,bijnor,3682713.0,4561.0,807.0,20884.0,uttar pradesh,UP,bijnor,1.0,0.0,32.0,31.0
-9.0,135.0,uttar pradesh,moradabad,4772006.0,3718.0,1283.0,173118.0,uttar pradesh,UP,moradabad,8.0,6.0,110.0,96.0
+9.0,134.0,uttar pradesh,bijnor,3682713.0,4561.0,807.0,20884.0,uttar pradesh,UP,bijnor,21.0,0.0,32.0,11.0
+9.0,135.0,uttar pradesh,moradabad,4772006.0,3718.0,1283.0,173118.0,uttar pradesh,UP,moradabad,41.0,7.0,110.0,62.0
 9.0,136.0,uttar pradesh,rampur,2335819.0,2367.0,987.0,18059.0,uttar pradesh,UP,rampur,5.0,0.0,24.0,19.0
 9.0,137.0,uttar pradesh,jyotiba phule nagar,1840221.0,2249.0,818.0,,,,,,,,
-9.0,138.0,uttar pradesh,meerut,3443689.0,2559.0,1346.0,674393.0,uttar pradesh,UP,meerut,49.0,5.0,102.0,48.0
-9.0,139.0,uttar pradesh,baghpat,1303048.0,1321.0,986.0,28009.0,uttar pradesh,UP,baghpat,13.0,0.0,15.0,2.0
-9.0,140.0,uttar pradesh,ghaziabad,4681645.0,1179.0,3971.0,664027.0,uttar pradesh,UP,ghaziabad,44.0,0.0,62.0,18.0
-9.0,141.0,uttar pradesh,gautam buddha nagar,1648115.0,1282.0,1286.0,26453.0,uttar pradesh,UP,gautam buddha nagar,88.0,0.0,141.0,53.0
-9.0,142.0,uttar pradesh,bulandshahr,3499171.0,4512.0,776.0,189073.0,uttar pradesh,UP,bulandshahr,9.0,1.0,51.0,41.0
+9.0,138.0,uttar pradesh,meerut,3443689.0,2559.0,1346.0,674393.0,uttar pradesh,UP,meerut,52.0,6.0,105.0,47.0
+9.0,139.0,uttar pradesh,baghpat,1303048.0,1321.0,986.0,28009.0,uttar pradesh,UP,baghpat,14.0,0.0,15.0,1.0
+9.0,140.0,uttar pradesh,ghaziabad,4681645.0,1179.0,3971.0,664027.0,uttar pradesh,UP,ghaziabad,44.0,1.0,65.0,20.0
+9.0,141.0,uttar pradesh,gautam buddha nagar,1648115.0,1282.0,1286.0,26453.0,uttar pradesh,UP,gautam buddha nagar,90.0,0.0,154.0,64.0
+9.0,142.0,uttar pradesh,bulandshahr,3499171.0,4512.0,776.0,189073.0,uttar pradesh,UP,bulandshahr,12.0,1.0,51.0,38.0
 9.0,143.0,uttar pradesh,aligarh,3673889.0,3650.0,1007.0,367524.0,uttar pradesh,UP,aligarh,0.0,1.0,35.0,34.0
 9.0,144.0,uttar pradesh,mahamaya nagar,1564708.0,1840.0,850.0,91136.0,,,,,,,
-9.0,145.0,uttar pradesh,mathura,2547184.0,3340.0,763.0,157409.0,uttar pradesh,UP,mathura,1.0,1.0,13.0,11.0
-9.0,146.0,uttar pradesh,agra,4418797.0,4041.0,1093.0,486206.0,uttar pradesh,UP,agra,91.0,14.0,468.0,363.0
-9.0,147.0,uttar pradesh,firozabad,2498156.0,2407.0,1038.0,153277.0,uttar pradesh,UP,firozabad,10.0,2.0,111.0,99.0
+9.0,145.0,uttar pradesh,mathura,2547184.0,3340.0,763.0,157409.0,uttar pradesh,UP,mathura,4.0,1.0,13.0,8.0
+9.0,146.0,uttar pradesh,agra,4418797.0,4041.0,1093.0,486206.0,uttar pradesh,UP,agra,91.0,14.0,497.0,392.0
+9.0,147.0,uttar pradesh,firozabad,2498156.0,2407.0,1038.0,153277.0,uttar pradesh,UP,firozabad,23.0,2.0,124.0,99.0
 9.0,148.0,uttar pradesh,mainpuri,1868529.0,2760.0,677.0,7140.0,uttar pradesh,UP,mainpuri,0.0,0.0,5.0,5.0
 9.0,149.0,uttar pradesh,budaun,3681896.0,5168.0,712.0,,uttar pradesh,UP,budaun,1.0,0.0,16.0,15.0
 9.0,150.0,uttar pradesh,bareilly,4448359.0,4120.0,1080.0,182288.0,uttar pradesh,UP,bareilly,6.0,1.0,8.0,1.0
 9.0,151.0,uttar pradesh,pilibhit,2031007.0,3686.0,551.0,18405.0,uttar pradesh,UP,pilibhit,2.0,0.0,3.0,1.0
 9.0,152.0,uttar pradesh,shahjahanpur,3006538.0,4388.0,685.0,186740.0,uttar pradesh,UP,shahjahanpur,1.0,0.0,1.0,0.0
-9.0,153.0,uttar pradesh,kheri,4021243.0,7680.0,524.0,38141.0,uttar pradesh,UP,kheri,4.0,0.0,4.0,0.0
+9.0,153.0,uttar pradesh,kheri,4021243.0,7680.0,524.0,38141.0,,,,,,,
 9.0,154.0,uttar pradesh,sitapur,4483992.0,5743.0,781.0,27437.0,uttar pradesh,UP,sitapur,17.0,0.0,20.0,3.0
 9.0,155.0,uttar pradesh,hardoi,4092845.0,5986.0,684.0,71288.0,uttar pradesh,UP,hardoi,2.0,0.0,2.0,0.0
-9.0,156.0,uttar pradesh,unnao,3108367.0,4558.0,682.0,117657.0,uttar pradesh,UP,unnao,0.0,0.0,1.0,1.0
-9.0,157.0,uttar pradesh,lucknow,4589838.0,2528.0,1816.0,98162.0,uttar pradesh,UP,lucknow,62.0,1.0,206.0,143.0
+9.0,156.0,uttar pradesh,unnao,3108367.0,4558.0,682.0,117657.0,uttar pradesh,UP,unnao,0.0,0.0,2.0,2.0
+9.0,157.0,uttar pradesh,lucknow,4589838.0,2528.0,1816.0,98162.0,uttar pradesh,UP,lucknow,69.0,1.0,214.0,144.0
 9.0,158.0,uttar pradesh,rae bareli,3405559.0,4609.0,739.0,106272.0,uttar pradesh,UP,rae bareli,0.0,0.0,44.0,44.0
 9.0,159.0,uttar pradesh,farrukhabad,1885204.0,2181.0,864.0,6855.0,,,,,,,
 9.0,160.0,uttar pradesh,kannauj,1656616.0,2093.0,792.0,83263.0,uttar pradesh,UP,kannauj,1.0,0.0,7.0,6.0
 9.0,161.0,uttar pradesh,etawah,1581810.0,2311.0,684.0,35298.0,uttar pradesh,UP,etawah,1.0,0.0,2.0,1.0
 9.0,162.0,uttar pradesh,auraiya,1379545.0,2016.0,684.0,16.0,uttar pradesh,UP,auraiya,4.0,0.0,10.0,6.0
 9.0,163.0,uttar pradesh,kanpur dehat,1796184.0,3021.0,595.0,2744.0,uttar pradesh,UP,kanpur dehat,0.0,0.0,1.0,1.0
-9.0,164.0,uttar pradesh,kanpur nagar,4581268.0,3155.0,1452.0,559044.0,uttar pradesh,UP,kanpur nagar,17.0,4.0,210.0,189.0
+9.0,164.0,uttar pradesh,kanpur nagar,4581268.0,3155.0,1452.0,559044.0,uttar pradesh,UP,kanpur nagar,17.0,4.0,222.0,201.0
 9.0,165.0,uttar pradesh,jalaun,1689974.0,4565.0,370.0,6699.0,uttar pradesh,UP,jalaun,0.0,0.0,3.0,3.0
 9.0,166.0,uttar pradesh,jhansi,1998603.0,5024.0,398.0,35653.0,uttar pradesh,UP,jhansi,0.0,0.0,4.0,4.0
 9.0,167.0,uttar pradesh,lalitpur,1221592.0,5039.0,242.0,5274.0,,,,,,,
 9.0,168.0,uttar pradesh,hamirpur,1104285.0,4021.0,275.0,4234.0,,,,,,,
 9.0,169.0,uttar pradesh,mahoba,875958.0,3144.0,279.0,5110.0,,,,,,,
-9.0,170.0,uttar pradesh,banda,1799410.0,4408.0,408.0,56238.0,uttar pradesh,UP,banda,0.0,0.0,4.0,4.0
+9.0,170.0,uttar pradesh,banda,1799410.0,4408.0,408.0,56238.0,uttar pradesh,UP,banda,3.0,0.0,7.0,4.0
 9.0,171.0,uttar pradesh,chitrakoot,991730.0,3216.0,308.0,95.0,,,,,,,
 9.0,172.0,uttar pradesh,fatehpur,2632733.0,4152.0,634.0,,,,,,,,
-9.0,173.0,uttar pradesh,pratapgarh,3209141.0,3717.0,863.0,3344.0,uttar pradesh,UP,pratapgarh,6.0,0.0,7.0,1.0
+9.0,173.0,uttar pradesh,pratapgarh,3209141.0,3717.0,863.0,3344.0,uttar pradesh,UP,pratapgarh,6.0,0.0,9.0,3.0
 9.0,174.0,uttar pradesh,kaushambi,1599596.0,1779.0,899.0,3443.0,uttar pradesh,UP,kaushambi,2.0,0.0,2.0,0.0
 9.0,175.0,uttar pradesh,allahabad,5954391.0,5482.0,1086.0,42727.0,,,,,,,
-9.0,176.0,uttar pradesh,bara banki,3260699.0,4402.0,741.0,18013.0,uttar pradesh,UP,bara banki,1.0,0.0,1.0,0.0
+9.0,176.0,uttar pradesh,bara banki,3260699.0,4402.0,741.0,18013.0,,,,,,,
 9.0,177.0,uttar pradesh,faizabad,2470996.0,2341.0,1056.0,40186.0,,,,,,,
 9.0,178.0,uttar pradesh,ambedkar nagar,2397888.0,2350.0,1020.0,47012.0,,,,,,,
 9.0,179.0,uttar pradesh,sultanpur,3797117.0,4436.0,856.0,12250.0,uttar pradesh,UP,sultanpur,0.0,0.0,3.0,3.0
@@ -182,57 +182,57 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 9.0,181.0,uttar pradesh,shrawasti,1117361.0,1640.0,681.0,6792.0,uttar pradesh,UP,shrawasti,0.0,1.0,5.0,4.0
 9.0,182.0,uttar pradesh,balrampur,2148665.0,3349.0,642.0,2283.0,uttar pradesh,UP,balrampur,0.0,0.0,1.0,1.0
 9.0,183.0,uttar pradesh,gonda,3433919.0,4003.0,858.0,4357.0,uttar pradesh,UP,gonda,0.0,0.0,2.0,2.0
-9.0,184.0,uttar pradesh,siddharthnagar,2559297.0,2895.0,884.0,9314.0,,,,,,,
-9.0,185.0,uttar pradesh,basti,2464464.0,2688.0,917.0,8967.0,uttar pradesh,UP,basti,13.0,1.0,23.0,9.0
-9.0,186.0,uttar pradesh,sant kabir nagar,1715183.0,1646.0,1042.0,9894.0,uttar pradesh,UP,sant kabir nagar,0.0,0.0,23.0,23.0
-9.0,187.0,uttar pradesh,mahrajganj,2684703.0,2952.0,909.0,23147.0,uttar pradesh,UP,mahrajganj,6.0,0.0,7.0,1.0
+9.0,184.0,uttar pradesh,siddharthnagar,2559297.0,2895.0,884.0,9314.0,uttar pradesh,UP,siddharthnagar,0.0,0.0,2.0,2.0
+9.0,185.0,uttar pradesh,basti,2464464.0,2688.0,917.0,8967.0,uttar pradesh,UP,basti,13.0,1.0,25.0,11.0
+9.0,186.0,uttar pradesh,sant kabir nagar,1715183.0,1646.0,1042.0,9894.0,uttar pradesh,UP,sant kabir nagar,0.0,0.0,26.0,26.0
+9.0,187.0,uttar pradesh,mahrajganj,2684703.0,2952.0,909.0,23147.0,,,,,,,
 9.0,188.0,uttar pradesh,gorakhpur,4440895.0,3321.0,1337.0,2253.0,uttar pradesh,UP,gorakhpur,0.0,0.0,2.0,2.0
 9.0,189.0,uttar pradesh,kushinagar,3564544.0,2905.0,1227.0,26927.0,,,,,,,
-9.0,190.0,uttar pradesh,deoria,3100946.0,2540.0,1221.0,51832.0,,,,,,,
+9.0,190.0,uttar pradesh,deoria,3100946.0,2540.0,1221.0,51832.0,uttar pradesh,UP,deoria,0.0,0.0,1.0,1.0
 9.0,191.0,uttar pradesh,azamgarh,4613913.0,4054.0,1138.0,,uttar pradesh,UP,azamgarh,4.0,0.0,8.0,4.0
 9.0,192.0,uttar pradesh,mau,2205968.0,1713.0,1288.0,28003.0,uttar pradesh,UP,mau,0.0,0.0,1.0,1.0
 9.0,193.0,uttar pradesh,ballia,3239774.0,2981.0,1087.0,15992.0,,,,,,,
-9.0,194.0,uttar pradesh,jaunpur,4494204.0,4038.0,1113.0,30183.0,uttar pradesh,UP,jaunpur,4.0,0.0,8.0,4.0
+9.0,194.0,uttar pradesh,jaunpur,4494204.0,4038.0,1113.0,30183.0,uttar pradesh,UP,jaunpur,5.0,0.0,8.0,3.0
 9.0,195.0,uttar pradesh,ghazipur,3620268.0,3377.0,1072.0,24752.0,uttar pradesh,UP,ghazipur,5.0,0.0,6.0,1.0
 9.0,196.0,uttar pradesh,chandauli,1952756.0,2541.0,768.0,42340.0,,,,,,,
 9.0,197.0,uttar pradesh,varanasi,3676841.0,1535.0,2395.0,459293.0,uttar pradesh,UP,varanasi,8.0,1.0,61.0,52.0
 9.0,198.0,uttar pradesh,sant ravidas nagar (bhadohi),1578213.0,1015.0,1555.0,1682.0,,,,,,,
 9.0,199.0,uttar pradesh,mirzapur,2496970.0,4405.0,567.0,,uttar pradesh,UP,mirzapur,2.0,0.0,3.0,1.0
 9.0,200.0,uttar pradesh,sonbhadra,1862559.0,6905.0,270.0,9742.0,,,,,,,
-9.0,201.0,uttar pradesh,etah,1774480.0,2431.0,730.0,65638.0,uttar pradesh,UP,etah,0.0,0.0,4.0,4.0
+9.0,201.0,uttar pradesh,etah,1774480.0,2431.0,730.0,65638.0,uttar pradesh,UP,etah,0.0,0.0,9.0,9.0
 9.0,202.0,uttar pradesh,kanshiram nagar,1436719.0,1955.0,735.0,,,,,,,,
 10.0,203.0,bihar,pashchim champaran,3935042.0,5228.0,753.0,31140.0,bihar,BR,west champaran,0.0,0.0,5.0,5.0
-10.0,204.0,bihar,purba champaran,5099371.0,3968.0,1285.0,2324.0,bihar,BR,east champaran,0.0,0.0,5.0,5.0
+10.0,204.0,bihar,purba champaran,5099371.0,3968.0,1285.0,2324.0,bihar,BR,east champaran,0.0,1.0,5.0,4.0
 10.0,205.0,bihar,sheohar,656246.0,349.0,1880.0,,,,,,,,
 10.0,206.0,bihar,sitamarhi,3423574.0,2294.0,1492.0,48150.0,bihar,BR,sitamarhi,0.0,0.0,6.0,6.0
-10.0,207.0,bihar,madhubani,4487379.0,3501.0,1282.0,8750.0,bihar,BR,madhubani,0.0,0.0,5.0,5.0
+10.0,207.0,bihar,madhubani,4487379.0,3501.0,1282.0,8750.0,bihar,BR,madhubani,0.0,0.0,18.0,18.0
 10.0,208.0,bihar,supaul,2229076.0,2425.0,919.0,1050.0,,,,,,,
-10.0,209.0,bihar,araria,2811569.0,2830.0,993.0,66653.0,bihar,BR,araria,0.0,0.0,1.0,1.0
+10.0,209.0,bihar,araria,2811569.0,2830.0,993.0,66653.0,bihar,BR,araria,0.0,0.0,2.0,2.0
 10.0,210.0,bihar,kishanganj,1690400.0,1884.0,897.0,27397.0,,,,,,,
 10.0,211.0,bihar,purnia,3264619.0,3229.0,1011.0,1300.0,bihar,BR,purnia,0.0,0.0,1.0,1.0
-10.0,212.0,bihar,katihar,3071029.0,3057.0,1005.0,41785.0,,,,,,,
+10.0,212.0,bihar,katihar,3071029.0,3057.0,1005.0,41785.0,bihar,BR,katihar,0.0,0.0,2.0,2.0
 10.0,213.0,bihar,madhepura,2001762.0,1788.0,1120.0,8427.0,bihar,BR,madhepura,0.0,0.0,2.0,2.0
 10.0,214.0,bihar,saharsa,1900661.0,1687.0,1127.0,61084.0,,,,,,,
 10.0,215.0,bihar,darbhanga,3937385.0,2279.0,1728.0,17848.0,bihar,BR,darbhanga,0.0,0.0,5.0,5.0
 10.0,216.0,bihar,muzaffarpur,4801062.0,3172.0,1514.0,32007.0,,,,,,,
 10.0,217.0,bihar,gopalganj,2562012.0,2033.0,1260.0,5886.0,bihar,BR,gopalganj,3.0,0.0,18.0,15.0
 10.0,218.0,bihar,siwan,3330464.0,2219.0,1501.0,1565.0,bihar,BR,siwan,25.0,0.0,30.0,5.0
-10.0,219.0,bihar,saran,3951862.0,2641.0,1496.0,25132.0,bihar,BR,saran,1.0,0.0,6.0,5.0
+10.0,219.0,bihar,saran,3951862.0,2641.0,1496.0,25132.0,bihar,BR,saran,1.0,0.0,7.0,6.0
 10.0,220.0,bihar,vaishali,3495021.0,2036.0,1717.0,3205.0,bihar,BR,vaishali,0.0,1.0,3.0,2.0
 10.0,221.0,bihar,samastipur,4261566.0,2904.0,1467.0,11228.0,,,,,,,
 10.0,222.0,bihar,begusarai,2970541.0,1918.0,1549.0,26560.0,bihar,BR,begusarai,5.0,0.0,11.0,6.0
 10.0,223.0,bihar,khagaria,1666886.0,1486.0,1122.0,3492.0,,,,,,,
 10.0,224.0,bihar,bhagalpur,3037766.0,2569.0,1182.0,,bihar,BR,bhagalpur,1.0,0.0,5.0,4.0
 10.0,225.0,bihar,banka,2034763.0,3020.0,674.0,,bihar,BR,banka,0.0,0.0,3.0,3.0
-10.0,226.0,bihar,munger,1367765.0,1419.0,964.0,3504.0,bihar,BR,munger,17.0,1.0,95.0,77.0
+10.0,226.0,bihar,munger,1367765.0,1419.0,964.0,3504.0,bihar,BR,munger,18.0,1.0,95.0,76.0
 10.0,227.0,bihar,lakhisarai,1000912.0,1228.0,815.0,1032.0,bihar,BR,lakhisarai,1.0,0.0,4.0,3.0
 10.0,228.0,bihar,sheikhpura,636342.0,689.0,924.0,1773.0,bihar,BR,sheikhpura,0.0,0.0,1.0,1.0
-10.0,229.0,bihar,nalanda,2877653.0,2355.0,1222.0,8892.0,bihar,BR,nalanda,12.0,0.0,35.0,23.0
+10.0,229.0,bihar,nalanda,2877653.0,2355.0,1222.0,8892.0,bihar,BR,nalanda,25.0,0.0,36.0,11.0
 10.0,230.0,bihar,patna,5838465.0,3202.0,1823.0,79672.0,bihar,BR,patna,6.0,0.0,44.0,38.0
-10.0,231.0,bihar,bhojpur,2728407.0,2395.0,1139.0,14425.0,bihar,BR,bhojpur,1.0,0.0,11.0,10.0
-10.0,232.0,bihar,buxar,1706352.0,1703.0,1002.0,10474.0,bihar,BR,buxar,5.0,0.0,40.0,35.0
-10.0,233.0,bihar,kaimur (bhabua),1626384.0,3332.0,488.0,2714.0,bihar,BR,kaimur bhabua,0.0,0.0,18.0,18.0
-10.0,234.0,bihar,rohtas,2959918.0,3881.0,763.0,42069.0,bihar,BR,rohtas,0.0,0.0,45.0,45.0
+10.0,231.0,bihar,bhojpur,2728407.0,2395.0,1139.0,14425.0,bihar,BR,bhojpur,1.0,0.0,18.0,17.0
+10.0,232.0,bihar,buxar,1706352.0,1703.0,1002.0,10474.0,bihar,BR,buxar,5.0,0.0,53.0,48.0
+10.0,233.0,bihar,kaimur (bhabua),1626384.0,3332.0,488.0,2714.0,,,,,,,
+10.0,234.0,bihar,rohtas,2959918.0,3881.0,763.0,42069.0,bihar,BR,rohtas,0.0,0.0,52.0,52.0
 10.0,235.0,bihar,aurangabad,2540073.0,3305.0,769.0,12155.0,bihar,BR,aurangabad,0.0,0.0,8.0,8.0
 10.0,236.0,bihar,gaya,4391418.0,4976.0,883.0,40209.0,bihar,BR,gaya,5.0,0.0,6.0,1.0
 10.0,237.0,bihar,nawada,2219146.0,2494.0,890.0,7010.0,bihar,BR,nawada,2.0,0.0,4.0,2.0
@@ -289,20 +289,21 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 15.0,288.0,mizoram,saiha,56574.0,1399.0,40.0,,,,,,,,
 16.0,289.0,tripura,west tripura,1725739.0,2993.0,577.0,77068.0,,,,,,,
 16.0,290.0,tripura,south tripura,876001.0,3057.0,287.0,32790.0,,,,,,,
-16.0,291.0,tripura,dhalai,378230.0,2400.0,158.0,1598.0,,,,,,,
+16.0,291.0,tripura,dhalai,378230.0,2400.0,158.0,1598.0,tripura,TR,dhalai,0.0,0.0,2.0,2.0
 16.0,292.0,tripura,north tripura,693947.0,2036.0,341.0,27697.0,tripura,TR,north tripura,1.0,0.0,1.0,0.0
 17.0,293.0,meghalaya,west garo hills,643291.0,3677.0,175.0,3741.0,,,,,,,
 17.0,294.0,meghalaya,east garo hills,317917.0,2603.0,122.0,4891.0,,,,,,,
 17.0,295.0,meghalaya,south garo hills,142334.0,1887.0,75.0,7253.0,,,,,,,
 17.0,296.0,meghalaya,west khasi hills,383461.0,5247.0,73.0,7765.0,,,,,,,
 17.0,297.0,meghalaya,ribhoi,258840.0,2448.0,106.0,,,,,,,,
-17.0,298.0,meghalaya,east khasi hills,825922.0,2748.0,301.0,14458.0,meghalaya,ML,east khasi hills,0.0,1.0,11.0,10.0
+17.0,298.0,meghalaya,east khasi hills,825922.0,2748.0,301.0,14458.0,meghalaya,ML,east khasi hills,10.0,1.0,12.0,1.0
 17.0,299.0,meghalaya,jaintia hills,395124.0,3819.0,103.0,19310.0,,,,,,,
 18.0,300.0,assam,kokrajhar,887142.0,3296.0,269.0,,,,,,,,
-18.0,301.0,assam,dhubri,1949258.0,2176.0,896.0,42714.0,assam,AS,dhubri,1.0,0.0,4.0,3.0
+18.0,301.0,assam,dhubri,1949258.0,2176.0,896.0,42714.0,assam,AS,dhubri,4.0,0.0,5.0,1.0
+18.0,301.0,assam,dhubri,1949258.0,2176.0,896.0,42714.0,assam,AS,south salmara mankachar,1.0,0.0,1.0,0.0
 18.0,302.0,assam,goalpara,1008183.0,1824.0,553.0,,assam,AS,goalpara,4.0,0.0,5.0,1.0
 18.0,303.0,assam,barpeta,1693622.0,2282.0,742.0,308.0,,,,,,,
-18.0,304.0,assam,morigaon,957423.0,1551.0,617.0,,assam,AS,morigaon,0.0,0.0,3.0,3.0
+18.0,304.0,assam,morigaon,957423.0,1551.0,617.0,,assam,AS,morigaon,6.0,0.0,6.0,0.0
 18.0,305.0,assam,nagaon,2823768.0,3973.0,711.0,19087.0,,,,,,,
 18.0,306.0,assam,sonitpur,1924110.0,5204.0,370.0,6337.0,,,,,,,
 18.0,307.0,assam,lakhimpur,1042137.0,2277.0,458.0,842.0,assam,AS,lakhimpur,1.0,0.0,1.0,0.0
@@ -310,18 +311,18 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 18.0,309.0,assam,tinsukia,1327929.0,3790.0,350.0,3442.0,,,,,,,
 18.0,310.0,assam,dibrugarh,1326335.0,3381.0,392.0,27089.0,,,,,,,
 18.0,311.0,assam,sivasagar,1151050.0,2668.0,431.0,5342.0,,,,,,,
-18.0,312.0,assam,jorhat,1092256.0,2851.0,383.0,9665.0,assam,AS,jorhat,0.0,0.0,8.0,8.0
-18.0,313.0,assam,golaghat,1066888.0,3502.0,305.0,4306.0,assam,AS,golaghat,0.0,0.0,1.0,1.0
+18.0,312.0,assam,jorhat,1092256.0,2851.0,383.0,9665.0,,,,,,,
+18.0,313.0,assam,golaghat,1066888.0,3502.0,305.0,4306.0,assam,AS,golaghat,9.0,0.0,9.0,0.0
 18.0,314.0,assam,karbi anglong,956313.0,10434.0,92.0,,,,,,,,
 18.0,315.0,assam,dima hasao,214102.0,4888.0,44.0,,,,,,,,
-18.0,316.0,assam,cachar,1736617.0,3786.0,459.0,26379.0,assam,AS,cachar,0.0,0.0,2.0,2.0
-18.0,317.0,assam,karimganj,1228686.0,1809.0,679.0,4157.0,assam,AS,karimganj,0.0,0.0,1.0,1.0
+18.0,316.0,assam,cachar,1736617.0,3786.0,459.0,26379.0,assam,AS,cachar,1.0,0.0,1.0,0.0
+18.0,317.0,assam,karimganj,1228686.0,1809.0,679.0,4157.0,assam,AS,karimganj,0.0,0.0,2.0,2.0
 18.0,318.0,assam,hailakandi,659296.0,1327.0,497.0,1125.0,assam,AS,hailakandi,0.0,1.0,1.0,0.0
 18.0,319.0,assam,bongaigaon,738804.0,1093.0,676.0,6140.0,assam,AS,bongaigaon,0.0,0.0,5.0,5.0
 18.0,320.0,assam,chirang,482162.0,1923.0,251.0,5728.0,,,,,,,
 18.0,321.0,assam,kamrup,1517542.0,3105.0,489.0,,assam,AS,kamrup,1.0,0.0,1.0,0.0
-18.0,322.0,assam,kamrup metropolitan,1253938.0,955.0,1313.0,25739.0,assam,AS,kamrup metropolitan,0.0,0.0,6.0,6.0
-18.0,323.0,assam,nalbari,771639.0,1052.0,733.0,5360.0,assam,AS,nalbari,0.0,0.0,3.0,3.0
+18.0,322.0,assam,kamrup metropolitan,1253938.0,955.0,1313.0,25739.0,assam,AS,kamrup metropolitan,1.0,0.0,1.0,0.0
+18.0,323.0,assam,nalbari,771639.0,1052.0,733.0,5360.0,assam,AS,nalbari,4.0,0.0,4.0,0.0
 18.0,324.0,assam,baksa,950075.0,2457.0,387.0,,,,,,,,
 18.0,325.0,assam,darrang,928500.0,1585.0,586.0,3022.0,,,,,,,
 18.0,326.0,assam,udalguri,831668.0,2012.0,413.0,484.0,,,,,,,
@@ -345,17 +346,17 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 19.0,342.0,west bengal,kolkata,4496694.0,185.0,24306.0,1409721.0,west bengal,WB,kolkata,0.0,0.0,184.0,184.0
 19.0,343.0,west bengal,south twenty four parganas,8161961.0,9960.0,819.0,292838.0,west bengal,WB,south 24 parganas,0.0,0.0,12.0,12.0
 19.0,344.0,west bengal,paschim medinipur,5913457.0,9368.0,631.0,186403.0,,,,,,,
-19.0,345.0,west bengal,purba medinipur,5095875.0,4713.0,1081.0,166123.0,west bengal,WB,medinipur east,0.0,0.0,22.0,22.0
+19.0,345.0,west bengal,purba medinipur,5095875.0,4713.0,1081.0,166123.0,west bengal,WB,purba medinipur,0.0,0.0,22.0,22.0
 20.0,346.0,jharkhand,garhwa,1322784.0,4093.0,323.0,,jharkhand,JH,garhwa,0.0,0.0,3.0,3.0
 20.0,347.0,jharkhand,chatra,1042886.0,3718.0,280.0,6319.0,,,,,,,
-20.0,348.0,jharkhand,kodarma,716259.0,2540.0,282.0,3908.0,jharkhand,JH,kodarma,0.0,0.0,1.0,1.0
+20.0,348.0,jharkhand,kodarma,716259.0,2540.0,282.0,3908.0,,,,,,,
 20.0,349.0,jharkhand,giridih,2445474.0,4962.0,493.0,34867.0,jharkhand,JH,giridih,0.0,0.0,1.0,1.0
-20.0,350.0,jharkhand,deoghar,1492073.0,2477.0,602.0,23442.0,jharkhand,JH,deoghar,0.0,0.0,2.0,2.0
-20.0,351.0,jharkhand,godda,1313551.0,2266.0,580.0,,,,,,,,
+20.0,350.0,jharkhand,deoghar,1492073.0,2477.0,602.0,23442.0,jharkhand,JH,deoghar,0.0,0.0,4.0,4.0
+20.0,351.0,jharkhand,godda,1313551.0,2266.0,580.0,,jharkhand,JH,godda,0.0,0.0,1.0,1.0
 20.0,352.0,jharkhand,sahibganj,1150567.0,2063.0,558.0,10150.0,,,,,,,
 20.0,353.0,jharkhand,pakur,900422.0,1811.0,497.0,,,,,,,,
 20.0,354.0,jharkhand,dhanbad,2684487.0,2040.0,1316.0,14275.0,jharkhand,JH,dhanbad,2.0,0.0,2.0,0.0
-20.0,355.0,jharkhand,bokaro,2062330.0,2883.0,715.0,10667.0,jharkhand,JH,bokaro,4.0,1.0,10.0,5.0
+20.0,355.0,jharkhand,bokaro,2062330.0,2883.0,715.0,10667.0,jharkhand,JH,bokaro,6.0,1.0,10.0,3.0
 20.0,356.0,jharkhand,lohardaga,461790.0,1502.0,307.0,10308.0,,,,,,,
 20.0,357.0,jharkhand,purbi singhbhum,2293919.0,3562.0,644.0,74471.0,,,,,,,
 20.0,358.0,jharkhand,palamu,1939869.0,4393.0,442.0,17732.0,jharkhand,JH,palamu,0.0,0.0,3.0,3.0
@@ -364,7 +365,7 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 20.0,361.0,jharkhand,ramgarh,949443.0,1341.0,708.0,,,,,,,,
 20.0,362.0,jharkhand,dumka,1321442.0,3761.0,351.0,5975.0,,,,,,,
 20.0,363.0,jharkhand,jamtara,791042.0,1811.0,437.0,8207.0,jharkhand,JH,jamtara,0.0,0.0,2.0,2.0
-20.0,364.0,jharkhand,ranchi,2914253.0,5097.0,572.0,77602.0,jharkhand,JH,ranchi,10.0,2.0,81.0,69.0
+20.0,364.0,jharkhand,ranchi,2914253.0,5097.0,572.0,77602.0,jharkhand,JH,ranchi,10.0,2.0,83.0,71.0
 20.0,365.0,jharkhand,khunti,531885.0,2535.0,210.0,2398.0,,,,,,,
 20.0,366.0,jharkhand,gumla,1025213.0,5360.0,191.0,2824.0,,,,,,,
 20.0,367.0,jharkhand,simdega,599578.0,3774.0,159.0,3353.0,jharkhand,JH,simdega,1.0,0.0,2.0,1.0
@@ -373,27 +374,27 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 21.0,370.0,odisha,bargarh,1481255.0,5837.0,254.0,36795.0,,,,,,,
 21.0,371.0,odisha,jharsuguda,579505.0,2114.0,274.0,105357.0,odisha,OR,jharsuguda,0.0,0.0,1.0,1.0
 21.0,372.0,odisha,sambalpur,1041099.0,6624.0,157.0,99145.0,,,,,,,
-21.0,373.0,odisha,debagarh,312520.0,2940.0,106.0,,odisha,OR,debagarh,0.0,0.0,1.0,1.0
+21.0,373.0,odisha,debagarh,312520.0,2940.0,106.0,,,,,,,,
 21.0,374.0,odisha,sundargarh,2093437.0,9712.0,216.0,356048.0,odisha,OR,sundargarh,5.0,0.0,10.0,5.0
 21.0,375.0,odisha,kendujhar,1801733.0,8303.0,217.0,76986.0,odisha,OR,kendujhar,0.0,0.0,1.0,1.0
 21.0,376.0,odisha,mayurbhanj,2519738.0,10418.0,242.0,59971.0,,,,,,,
-21.0,377.0,odisha,baleshwar,2320529.0,3806.0,610.0,44637.0,odisha,OR,baleshwar,0.0,0.0,19.0,19.0
-21.0,378.0,odisha,bhadrak,1506337.0,2505.0,601.0,50261.0,odisha,OR,bhadrak,2.0,0.0,19.0,17.0
-21.0,379.0,odisha,kendrapara,1440361.0,2644.0,545.0,8490.0,odisha,OR,kendrapara,1.0,0.0,2.0,1.0
+21.0,377.0,odisha,baleshwar,2320529.0,3806.0,610.0,44637.0,,,,,,,
+21.0,378.0,odisha,bhadrak,1506337.0,2505.0,601.0,50261.0,odisha,OR,bhadrak,9.0,0.0,19.0,10.0
+21.0,379.0,odisha,kendrapara,1440361.0,2644.0,545.0,8490.0,odisha,OR,kendrapara,2.0,0.0,2.0,0.0
 21.0,380.0,odisha,jagatsinghapur,1136971.0,1668.0,682.0,123330.0,,,,,,,
 21.0,381.0,odisha,cuttack,2624470.0,3932.0,667.0,235296.0,odisha,OR,cuttack,1.0,0.0,1.0,0.0
-21.0,382.0,odisha,jajapur,1827192.0,2899.0,630.0,38157.0,odisha,OR,jajapur,1.0,0.0,36.0,35.0
+21.0,382.0,odisha,jajapur,1827192.0,2899.0,630.0,38157.0,,,,,,,
 21.0,383.0,odisha,dhenkanal,1192811.0,4452.0,268.0,8021.0,odisha,OR,dhenkanal,1.0,0.0,1.0,0.0
 21.0,384.0,odisha,anugul,1273821.0,6375.0,200.0,22875.0,,,,,,,
 21.0,385.0,odisha,nayagarh,962789.0,3890.0,248.0,,,,,,,,
-21.0,386.0,odisha,khordha,2251673.0,2813.0,800.0,332807.0,odisha,OR,khordha,27.0,1.0,47.0,19.0
+21.0,386.0,odisha,khordha,2251673.0,2813.0,800.0,332807.0,odisha,OR,khordha,31.0,1.0,47.0,15.0
 21.0,387.0,odisha,puri,1698730.0,3479.0,488.0,59677.0,odisha,OR,puri,1.0,0.0,1.0,0.0
 21.0,388.0,odisha,ganjam,3529031.0,8206.0,430.0,96985.0,,,,,,,
 21.0,389.0,odisha,gajapati,577817.0,4325.0,134.0,9000.0,,,,,,,
 21.0,390.0,odisha,kandhamal,733110.0,8021.0,91.0,8281.0,,,,,,,
 21.0,391.0,odisha,baudh,441162.0,3098.0,142.0,4975.0,,,,,,,
 21.0,392.0,odisha,subarnapur,610183.0,2337.0,261.0,13266.0,,,,,,,
-21.0,393.0,odisha,balangir,1648997.0,6575.0,251.0,60162.0,,,,,,,
+21.0,393.0,odisha,balangir,1648997.0,6575.0,251.0,60162.0,odisha,OR,balangir,0.0,0.0,2.0,2.0
 21.0,394.0,odisha,nuapada,610382.0,3852.0,158.0,3191.0,,,,,,,
 21.0,395.0,odisha,kalahandi,1576869.0,7920.0,199.0,355443.0,odisha,OR,kalahandi,2.0,0.0,2.0,0.0
 21.0,396.0,odisha,rayagada,967911.0,7073.0,137.0,27385.0,,,,,,,
@@ -419,9 +420,9 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 22.0,416.0,chhattisgarh,dakshin bastar dantewada,533638.0,8298.0,64.0,28494.0,,,,,,,
 22.0,417.0,chhattisgarh,bijapur,255230.0,8530.0,30.0,4998.0,,,,,,,
 23.0,418.0,madhya pradesh,sheopur,687861.0,6606.0,104.0,36297.0,madhya pradesh,MP,sheopur,4.0,0.0,4.0,0.0
-23.0,419.0,madhya pradesh,morena,1965970.0,4989.0,394.0,96421.0,madhya pradesh,MP,morena,13.0,0.0,13.0,0.0
+23.0,419.0,madhya pradesh,morena,1965970.0,4989.0,394.0,96421.0,madhya pradesh,MP,morena,13.0,0.0,14.0,1.0
 23.0,420.0,madhya pradesh,bhind,1703005.0,4459.0,382.0,90691.0,,,,,,,
-23.0,421.0,madhya pradesh,gwalior,2032036.0,4560.0,446.0,188009.0,madhya pradesh,MP,gwalior,2.0,0.0,4.0,2.0
+23.0,421.0,madhya pradesh,gwalior,2032036.0,4560.0,446.0,188009.0,madhya pradesh,MP,gwalior,2.0,0.0,5.0,3.0
 23.0,422.0,madhya pradesh,datia,786754.0,2902.0,271.0,6907.0,,,,,,,
 23.0,423.0,madhya pradesh,shivpuri,1726050.0,10066.0,171.0,8901.0,madhya pradesh,MP,shivpuri,2.0,0.0,2.0,0.0
 23.0,424.0,madhya pradesh,tikamgarh,1445166.0,5048.0,286.0,78033.0,madhya pradesh,MP,tikamgarh,0.0,0.0,2.0,2.0
@@ -433,25 +434,25 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 23.0,430.0,madhya pradesh,rewa,2365106.0,6314.0,375.0,99121.0,madhya pradesh,MP,rewa,0.0,0.0,2.0,2.0
 23.0,431.0,madhya pradesh,umaria,644758.0,4076.0,158.0,23202.0,,,,,,,
 23.0,432.0,madhya pradesh,neemuch,826067.0,4256.0,194.0,60036.0,,,,,,,
-23.0,433.0,madhya pradesh,mandsaur,1340411.0,5535.0,242.0,9535.0,madhya pradesh,MP,mandsaur,0.0,2.0,9.0,7.0
-23.0,434.0,madhya pradesh,ratlam,1455069.0,4861.0,299.0,151847.0,madhya pradesh,MP,ratlam,0.0,0.0,14.0,14.0
-23.0,435.0,madhya pradesh,ujjain,1986864.0,6091.0,326.0,194703.0,madhya pradesh,MP,ujjain,5.0,24.0,138.0,109.0
-23.0,436.0,madhya pradesh,shajapur,1512681.0,6195.0,244.0,123773.0,madhya pradesh,MP,shajapur,4.0,0.0,6.0,2.0
-23.0,437.0,madhya pradesh,dewas,1563715.0,7020.0,223.0,189102.0,madhya pradesh,MP,dewas,7.0,7.0,24.0,10.0
-23.0,438.0,madhya pradesh,dhar,2185793.0,8153.0,268.0,85482.0,madhya pradesh,MP,dhar,1.0,1.0,48.0,46.0
-23.0,439.0,madhya pradesh,indore,3276697.0,3898.0,841.0,584965.0,madhya pradesh,MP,indore,177.0,68.0,1486.0,1241.0
-23.0,440.0,madhya pradesh,khargone (west nimar),1873046.0,8025.0,233.0,76559.0,madhya pradesh,MP,khargone,22.0,7.0,70.0,41.0
-23.0,441.0,madhya pradesh,barwani,1385881.0,5427.0,255.0,75712.0,madhya pradesh,MP,barwani,14.0,0.0,26.0,12.0
+23.0,433.0,madhya pradesh,mandsaur,1340411.0,5535.0,242.0,9535.0,madhya pradesh,MP,mandsaur,1.0,3.0,24.0,20.0
+23.0,434.0,madhya pradesh,ratlam,1455069.0,4861.0,299.0,151847.0,madhya pradesh,MP,ratlam,11.0,0.0,16.0,5.0
+23.0,435.0,madhya pradesh,ujjain,1986864.0,6091.0,326.0,194703.0,madhya pradesh,MP,ujjain,5.0,27.0,147.0,115.0
+23.0,436.0,madhya pradesh,shajapur,1512681.0,6195.0,244.0,123773.0,madhya pradesh,MP,shajapur,6.0,1.0,7.0,0.0
+23.0,437.0,madhya pradesh,dewas,1563715.0,7020.0,223.0,189102.0,madhya pradesh,MP,dewas,7.0,7.0,26.0,12.0
+23.0,438.0,madhya pradesh,dhar,2185793.0,8153.0,268.0,85482.0,madhya pradesh,MP,dhar,1.0,1.0,49.0,47.0
+23.0,439.0,madhya pradesh,indore,3276697.0,3898.0,841.0,584965.0,madhya pradesh,MP,indore,177.0,74.0,1515.0,1264.0
+23.0,440.0,madhya pradesh,khargone (west nimar),1873046.0,8025.0,233.0,76559.0,madhya pradesh,MP,khargone,22.0,7.0,73.0,44.0
+23.0,441.0,madhya pradesh,barwani,1385881.0,5427.0,255.0,75712.0,madhya pradesh,MP,barwani,18.0,0.0,26.0,8.0
 23.0,442.0,madhya pradesh,rajgarh,1545814.0,6153.0,251.0,89256.0,,,,,,,
 23.0,443.0,madhya pradesh,vidisha,1458875.0,7371.0,198.0,189191.0,madhya pradesh,MP,vidisha,13.0,0.0,13.0,0.0
-23.0,444.0,madhya pradesh,bhopal,2371061.0,2772.0,855.0,720579.0,madhya pradesh,MP,bhopal,162.0,15.0,508.0,331.0
+23.0,444.0,madhya pradesh,bhopal,2371061.0,2772.0,855.0,720579.0,madhya pradesh,MP,bhopal,183.0,15.0,526.0,328.0
 23.0,445.0,madhya pradesh,sehore,1311332.0,6578.0,199.0,66884.0,,,,,,,
-23.0,446.0,madhya pradesh,raisen,1331597.0,8466.0,157.0,86150.0,madhya pradesh,MP,raisen,1.0,2.0,55.0,52.0
+23.0,446.0,madhya pradesh,raisen,1331597.0,8466.0,157.0,86150.0,madhya pradesh,MP,raisen,1.0,2.0,57.0,54.0
 23.0,447.0,madhya pradesh,betul,1575362.0,10043.0,157.0,132987.0,madhya pradesh,MP,betul,0.0,0.0,1.0,1.0
-23.0,448.0,madhya pradesh,harda,570465.0,3334.0,171.0,50234.0,madhya pradesh,MP,harda,0.0,0.0,1.0,1.0
-23.0,449.0,madhya pradesh,hoshangabad,1241350.0,6703.0,185.0,156379.0,madhya pradesh,MP,hoshangabad,14.0,3.0,35.0,18.0
+23.0,448.0,madhya pradesh,harda,570465.0,3334.0,171.0,50234.0,madhya pradesh,MP,harda,0.0,0.0,3.0,3.0
+23.0,449.0,madhya pradesh,hoshangabad,1241350.0,6703.0,185.0,156379.0,madhya pradesh,MP,hoshangabad,17.0,4.0,35.0,14.0
 23.0,450.0,madhya pradesh,katni,1292042.0,4950.0,261.0,59031.0,,,,,,,
-23.0,451.0,madhya pradesh,jabalpur,2463289.0,5211.0,473.0,355408.0,madhya pradesh,MP,jabalpur,7.0,1.0,85.0,77.0
+23.0,451.0,madhya pradesh,jabalpur,2463289.0,5211.0,473.0,355408.0,madhya pradesh,MP,jabalpur,7.0,1.0,87.0,79.0
 23.0,452.0,madhya pradesh,narsimhapur,1091854.0,5133.0,213.0,20142.0,,,,,,,
 23.0,453.0,madhya pradesh,dindori,704524.0,7470.0,94.0,2502.0,madhya pradesh,MP,dindori,0.0,0.0,1.0,1.0
 23.0,454.0,madhya pradesh,mandla,1054905.0,5800.0,182.0,51016.0,,,,,,,
@@ -461,82 +462,82 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 23.0,458.0,madhya pradesh,guna,1241519.0,6390.0,194.0,44676.0,,,,,,,
 23.0,459.0,madhya pradesh,ashoknagar,845071.0,4674.0,181.0,10000.0,madhya pradesh,MP,ashoknagar,0.0,1.0,1.0,0.0
 23.0,460.0,madhya pradesh,shahdol,1066063.0,6205.0,172.0,16943.0,madhya pradesh,MP,shahdol,0.0,0.0,3.0,3.0
-23.0,461.0,madhya pradesh,anuppur,749237.0,3747.0,200.0,31058.0,,,,,,,
+23.0,461.0,madhya pradesh,anuppur,749237.0,3747.0,200.0,31058.0,madhya pradesh,MP,anuppur,0.0,0.0,2.0,2.0
 23.0,462.0,madhya pradesh,sidhi,1127033.0,4851.0,232.0,19635.0,,,,,,,
 23.0,463.0,madhya pradesh,singrauli,1178273.0,5675.0,208.0,,,,,,,,
 23.0,464.0,madhya pradesh,jhabua,1025048.0,3600.0,285.0,17843.0,,,,,,,
 23.0,465.0,madhya pradesh,alirajpur,728999.0,3182.0,229.0,,madhya pradesh,MP,alirajpur,0.0,0.0,3.0,3.0
-23.0,466.0,madhya pradesh,khandwa (east nimar),1310061.0,7352.0,178.0,12588.0,madhya pradesh,MP,khandwa,31.0,4.0,46.0,11.0
+23.0,466.0,madhya pradesh,khandwa (east nimar),1310061.0,7352.0,178.0,12588.0,madhya pradesh,MP,khandwa,31.0,6.0,46.0,9.0
 23.0,467.0,madhya pradesh,burhanpur,757847.0,3427.0,221.0,69618.0,madhya pradesh,MP,burhanpur,0.0,0.0,1.0,1.0
-24.0,468.0,gujarat,kachchh,2092371.0,45674.0,46.0,45702.0,gujarat,GJ,kachchh,5.0,1.0,6.0,0.0
-24.0,469.0,gujarat,banas kantha,3120506.0,10743.0,290.0,34488.0,gujarat,GJ,banas kantha,4.0,1.0,28.0,23.0
-24.0,470.0,gujarat,patan,1343734.0,5792.0,232.0,19053.0,gujarat,GJ,patan,11.0,1.0,17.0,5.0
-24.0,471.0,gujarat,mahesana,2035064.0,4401.0,462.0,6295.0,gujarat,GJ,mahesana,5.0,0.0,11.0,6.0
-24.0,472.0,gujarat,sabar kantha,2428589.0,7394.0,328.0,10918.0,gujarat,GJ,sabar kantha,2.0,0.0,3.0,1.0
-24.0,473.0,gujarat,gandhinagar,1391753.0,2140.0,650.0,12521.0,gujarat,GJ,gandhinagar,12.0,2.0,48.0,34.0
-24.0,474.0,gujarat,ahmadabad,7214225.0,8107.0,890.0,249416.0,gujarat,GJ,ahmadabad,316.0,149.0,3026.0,2561.0
-24.0,475.0,gujarat,surendranagar,1756268.0,10423.0,168.0,6133.0,gujarat,GJ,surendranagar,0.0,0.0,1.0,1.0
-24.0,476.0,gujarat,rajkot,3804558.0,11198.0,340.0,211946.0,gujarat,GJ,rajkot,17.0,1.0,58.0,40.0
+24.0,468.0,gujarat,kachchh,2092371.0,45674.0,46.0,45702.0,,,,,,,
+24.0,469.0,gujarat,banas kantha,3120506.0,10743.0,290.0,34488.0,,,,,,,
+24.0,470.0,gujarat,patan,1343734.0,5792.0,232.0,19053.0,gujarat,GJ,patan,12.0,1.0,21.0,8.0
+24.0,471.0,gujarat,mahesana,2035064.0,4401.0,462.0,6295.0,,,,,,,
+24.0,472.0,gujarat,sabar kantha,2428589.0,7394.0,328.0,10918.0,,,,,,,
+24.0,473.0,gujarat,gandhinagar,1391753.0,2140.0,650.0,12521.0,gujarat,GJ,gandhinagar,13.0,2.0,67.0,52.0
+24.0,474.0,gujarat,ahmadabad,7214225.0,8107.0,890.0,249416.0,,,,,,,
+24.0,475.0,gujarat,surendranagar,1756268.0,10423.0,168.0,6133.0,gujarat,GJ,surendranagar,1.0,0.0,1.0,0.0
+24.0,476.0,gujarat,rajkot,3804558.0,11198.0,340.0,211946.0,gujarat,GJ,rajkot,18.0,1.0,58.0,39.0
 24.0,477.0,gujarat,jamnagar,2160119.0,14184.0,152.0,85242.0,gujarat,GJ,jamnagar,0.0,1.0,1.0,0.0
 24.0,478.0,gujarat,porbandar,585449.0,2316.0,253.0,12243.0,gujarat,GJ,porbandar,3.0,0.0,3.0,0.0
 24.0,479.0,gujarat,junagadh,2743082.0,8831.0,311.0,32040.0,,,,,,,
 24.0,480.0,gujarat,amreli,1514190.0,7397.0,205.0,8751.0,,,,,,,
-24.0,481.0,gujarat,bhavnagar,2880365.0,10034.0,287.0,84055.0,gujarat,GJ,bhavnagar,21.0,5.0,47.0,21.0
-24.0,482.0,gujarat,anand,2092745.0,3204.0,653.0,51999.0,gujarat,GJ,anand,24.0,4.0,74.0,46.0
-24.0,483.0,gujarat,kheda,2299885.0,3953.0,582.0,41558.0,gujarat,GJ,kheda,2.0,0.0,6.0,4.0
-24.0,484.0,gujarat,panch mahals,2390776.0,5231.0,457.0,7766.0,gujarat,GJ,panch mahals,3.0,2.0,34.0,29.0
-24.0,485.0,gujarat,dohad,2127086.0,3642.0,584.0,10216.0,gujarat,GJ,dahod,1.0,0.0,5.0,4.0
-24.0,486.0,gujarat,vadodara,4165626.0,7546.0,552.0,115472.0,gujarat,GJ,vadodara,87.0,17.0,289.0,185.0
+24.0,481.0,gujarat,bhavnagar,2880365.0,10034.0,287.0,84055.0,gujarat,GJ,bhavnagar,21.0,5.0,53.0,27.0
+24.0,482.0,gujarat,anand,2092745.0,3204.0,653.0,51999.0,gujarat,GJ,anand,31.0,5.0,74.0,38.0
+24.0,483.0,gujarat,kheda,2299885.0,3953.0,582.0,41558.0,gujarat,GJ,kheda,2.0,0.0,9.0,7.0
+24.0,484.0,gujarat,panch mahals,2390776.0,5231.0,457.0,7766.0,,,,,,,
+24.0,485.0,gujarat,dohad,2127086.0,3642.0,584.0,10216.0,gujarat,GJ,dahod,2.0,0.0,6.0,4.0
+24.0,486.0,gujarat,vadodara,4165626.0,7546.0,552.0,115472.0,gujarat,GJ,vadodara,142.0,24.0,325.0,159.0
 24.0,487.0,gujarat,narmada,590297.0,2817.0,210.0,11820.0,gujarat,GJ,narmada,10.0,0.0,12.0,2.0
-24.0,488.0,gujarat,bharuch,1551019.0,6509.0,238.0,29156.0,gujarat,GJ,bharuch,20.0,2.0,31.0,9.0
+24.0,488.0,gujarat,bharuch,1551019.0,6509.0,238.0,29156.0,gujarat,GJ,bharuch,21.0,2.0,31.0,8.0
 24.0,489.0,gujarat,the dangs,228291.0,1766.0,129.0,,,,,,,,
-24.0,490.0,gujarat,navsari,1329672.0,2246.0,592.0,42870.0,gujarat,GJ,navsari,0.0,0.0,6.0,6.0
-24.0,491.0,gujarat,valsad,1705678.0,3008.0,567.0,55688.0,gujarat,GJ,valsad,0.0,1.0,5.0,4.0
-24.0,492.0,gujarat,surat,6081322.0,4549.0,1337.0,539102.0,gujarat,GJ,surat,54.0,25.0,614.0,535.0
-24.0,493.0,gujarat,tapi,807022.0,3139.0,257.0,29706.0,gujarat,GJ,tapi,0.0,0.0,1.0,1.0
+24.0,490.0,gujarat,navsari,1329672.0,2246.0,592.0,42870.0,gujarat,GJ,navsari,2.0,0.0,8.0,6.0
+24.0,491.0,gujarat,valsad,1705678.0,3008.0,567.0,55688.0,gujarat,GJ,valsad,0.0,1.0,6.0,5.0
+24.0,492.0,gujarat,surat,6081322.0,4549.0,1337.0,539102.0,gujarat,GJ,surat,98.0,28.0,657.0,531.0
+24.0,493.0,gujarat,tapi,807022.0,3139.0,257.0,29706.0,gujarat,GJ,tapi,0.0,0.0,2.0,2.0
 25.0,494.0,daman & diu,diu,52074.0,39.0,1335.0,,,,,,,,
 25.0,495.0,daman & diu,daman,191173.0,72.0,2655.0,,,,,,,,
 26.0,496.0,dadra & nagar haveli,dadra & nagar haveli,343709.0,491.0,700.0,,,,,,,,
 27.0,497.0,maharashtra,nandurbar,1648295.0,5955.0,277.0,26318.0,maharashtra,MH,nandurbar,0.0,1.0,11.0,10.0
-27.0,498.0,maharashtra,dhule,2050862.0,7195.0,285.0,97824.0,maharashtra,MH,dhule,0.0,3.0,25.0,22.0
-27.0,499.0,maharashtra,jalgaon,4229917.0,11765.0,360.0,121327.0,maharashtra,MH,jalgaon,1.0,9.0,40.0,30.0
-27.0,500.0,maharashtra,buldana,2586258.0,9661.0,268.0,125413.0,maharashtra,MH,buldana,17.0,1.0,21.0,3.0
+27.0,498.0,maharashtra,dhule,2050862.0,7195.0,285.0,97824.0,maharashtra,MH,dhule,0.0,3.0,26.0,23.0
+27.0,499.0,maharashtra,jalgaon,4229917.0,11765.0,360.0,121327.0,maharashtra,MH,jalgaon,1.0,12.0,44.0,31.0
+27.0,500.0,maharashtra,buldana,2586258.0,9661.0,268.0,125413.0,,,,,,,
 27.0,501.0,maharashtra,akola,1813906.0,5672.81,320.0,198448.0,maharashtra,MH,akola,8.0,1.0,39.0,30.0
 27.0,502.0,maharashtra,washim,1197160.0,4901.19,244.0,44185.0,maharashtra,MH,washim,1.0,0.0,2.0,1.0
 27.0,503.0,maharashtra,amravati,2888445.0,12210.0,237.0,311928.0,maharashtra,MH,amravati,4.0,7.0,28.0,17.0
 27.0,504.0,maharashtra,wardha,1300774.0,6309.0,206.0,65272.0,,,,,,,
 27.0,505.0,maharashtra,nagpur,4653570.0,9892.0,470.0,902474.0,maharashtra,MH,nagpur,37.0,2.0,139.0,100.0
 27.0,506.0,maharashtra,bhandara,1200334.0,4087.0,294.0,34226.0,maharashtra,MH,bhandara,0.0,0.0,1.0,1.0
-27.0,507.0,maharashtra,gondiya,1322507.0,5234.0,253.0,42545.0,maharashtra,MH,gondiya,1.0,0.0,1.0,0.0
+27.0,507.0,maharashtra,gondiya,1322507.0,5234.0,253.0,42545.0,,,,,,,
 27.0,508.0,maharashtra,gadchiroli,1072942.0,14412.0,74.0,2500.0,,,,,,,
-27.0,509.0,maharashtra,chandrapur,2204307.0,11443.0,193.0,143866.0,maharashtra,MH,chandrapur,2.0,0.0,2.0,0.0
+27.0,509.0,maharashtra,chandrapur,2204307.0,11443.0,193.0,143866.0,maharashtra,MH,chandrapur,2.0,0.0,3.0,1.0
 27.0,510.0,maharashtra,yavatmal,2772348.0,13582.0,204.0,89264.0,maharashtra,MH,yavatmal,10.0,0.0,79.0,69.0
-27.0,511.0,maharashtra,nanded,3361292.0,10528.0,319.0,153868.0,maharashtra,MH,nanded,0.0,0.0,3.0,3.0
-27.0,512.0,maharashtra,hingoli,1177345.0,4827.0,244.0,35750.0,maharashtra,MH,hingoli,1.0,0.0,15.0,14.0
-27.0,513.0,maharashtra,parbhani,1836086.0,6214.0,295.0,111514.0,maharashtra,MH,parbhani,1.0,0.0,2.0,1.0
-27.0,514.0,maharashtra,jalna,1959046.0,7694.11,255.0,69377.0,maharashtra,MH,jalna,1.0,0.0,2.0,1.0
-27.0,515.0,maharashtra,aurangabad,3701282.0,10130.89,365.0,232630.0,maharashtra,MH,aurangabad,22.0,7.0,131.0,102.0
-27.0,516.0,maharashtra,nashik,6107187.0,15530.0,393.0,371749.0,maharashtra,MH,nashik,6.0,12.0,197.0,179.0
-27.0,517.0,maharashtra,thane,11060148.0,9558.0,1157.0,1262217.0,maharashtra,MH,thane,172.0,16.0,943.0,755.0
+27.0,511.0,maharashtra,nanded,3361292.0,10528.0,319.0,153868.0,maharashtra,MH,nanded,0.0,1.0,4.0,3.0
+27.0,512.0,maharashtra,hingoli,1177345.0,4827.0,244.0,35750.0,maharashtra,MH,hingoli,1.0,0.0,22.0,21.0
+27.0,513.0,maharashtra,parbhani,1836086.0,6214.0,295.0,111514.0,maharashtra,MH,parbhani,1.0,1.0,3.0,1.0
+27.0,514.0,maharashtra,jalna,1959046.0,7694.11,255.0,69377.0,maharashtra,MH,jalna,1.0,0.0,3.0,2.0
+27.0,515.0,maharashtra,aurangabad,3701282.0,10130.89,365.0,232630.0,maharashtra,MH,aurangabad,22.0,8.0,161.0,131.0
+27.0,516.0,maharashtra,nashik,6107187.0,15530.0,393.0,371749.0,maharashtra,MH,nashik,6.0,12.0,242.0,224.0
+27.0,517.0,maharashtra,thane,11060148.0,9558.0,1157.0,1262217.0,maharashtra,MH,thane,185.0,17.0,1016.0,814.0
 27.0,518.0,maharashtra,mumbai suburban,9356962.0,446.0,20980.0,4620654.0,,,,,,,
-27.0,519.0,maharashtra,mumbai,3085411.0,157.0,19652.0,489068.0,maharashtra,MH,mumbai,1092.0,290.0,7061.0,5679.0
-27.0,520.0,maharashtra,raigarh,2634200.0,7152.0,368.0,25110.0,maharashtra,MH,raigarh,24.0,3.0,71.0,44.0
-27.0,521.0,maharashtra,pune,9429408.0,15643.0,603.0,796961.0,maharashtra,MH,pune,248.0,88.0,1248.0,912.0
-27.0,522.0,maharashtra,ahmadnagar,4543159.0,17048.0,266.0,82277.0,maharashtra,MH,ahmadnagar,23.0,2.0,42.0,17.0
-27.0,523.0,maharashtra,bid,2585049.0,10693.0,242.0,128975.0,maharashtra,MH,bid,1.0,0.0,1.0,0.0
+27.0,519.0,maharashtra,mumbai,3085411.0,157.0,19652.0,489068.0,maharashtra,MH,mumbai,1134.0,296.0,7812.0,6382.0
+27.0,520.0,maharashtra,raigarh,2634200.0,7152.0,368.0,25110.0,,,,,,,
+27.0,521.0,maharashtra,pune,9429408.0,15643.0,603.0,796961.0,maharashtra,MH,pune,285.0,99.0,1316.0,932.0
+27.0,522.0,maharashtra,ahmadnagar,4543159.0,17048.0,266.0,82277.0,,,,,,,
+27.0,523.0,maharashtra,bid,2585049.0,10693.0,242.0,128975.0,,,,,,,
 27.0,524.0,maharashtra,latur,2454196.0,7157.0,343.0,58846.0,maharashtra,MH,latur,8.0,1.0,12.0,3.0
 27.0,525.0,maharashtra,osmanabad,1657576.0,7569.0,219.0,45428.0,maharashtra,MH,osmanabad,3.0,0.0,3.0,0.0
-27.0,526.0,maharashtra,solapur,4317756.0,14895.0,290.0,240839.0,maharashtra,MH,solapur,0.0,6.0,99.0,93.0
+27.0,526.0,maharashtra,solapur,4317756.0,14895.0,290.0,240839.0,maharashtra,MH,solapur,0.0,6.0,108.0,102.0
 27.0,527.0,maharashtra,satara,3003741.0,10480.0,287.0,9877.0,maharashtra,MH,satara,9.0,2.0,32.0,21.0
 27.0,528.0,maharashtra,ratnagiri,1615069.0,8208.0,197.0,2565.0,maharashtra,MH,ratnagiri,5.0,1.0,8.0,2.0
-27.0,529.0,maharashtra,sindhudurg,849651.0,5207.0,163.0,,maharashtra,MH,sindhudurg,1.0,0.0,2.0,1.0
-27.0,530.0,maharashtra,kolhapur,3876001.0,7685.0,504.0,81030.0,maharashtra,MH,kolhapur,4.0,0.0,14.0,10.0
-27.0,531.0,maharashtra,sangli,2822143.0,8572.0,329.0,28978.0,maharashtra,MH,sangli,25.0,1.0,29.0,3.0
+27.0,529.0,maharashtra,sindhudurg,849651.0,5207.0,163.0,,maharashtra,MH,sindhudurg,1.0,1.0,2.0,0.0
+27.0,530.0,maharashtra,kolhapur,3876001.0,7685.0,504.0,81030.0,maharashtra,MH,kolhapur,5.0,0.0,15.0,10.0
+27.0,531.0,maharashtra,sangli,2822143.0,8572.0,329.0,28978.0,maharashtra,MH,sangli,25.0,1.0,30.0,4.0
 28.0,532.0,andhra pradesh,adilabad,2741239.0,16105.0,170.0,269194.0,telangana,TG,adilabad,8.0,0.0,21.0,13.0
 28.0,533.0,andhra pradesh,nizamabad,2551335.0,7956.0,321.0,256695.0,telangana,TG,nizamabad,27.0,0.0,61.0,34.0
 28.0,534.0,andhra pradesh,karimnagar,3776269.0,11823.0,319.0,344158.0,telangana,TG,karimnagar,15.0,0.0,19.0,4.0
 28.0,535.0,andhra pradesh,medak,3033288.0,9699.0,313.0,168331.0,telangana,TG,medak,3.0,0.0,5.0,2.0
-28.0,536.0,andhra pradesh,hyderabad,3943323.0,217.0,18172.0,1164188.0,telangana,TG,hyderabad,151.0,21.0,548.0,376.0
+28.0,536.0,andhra pradesh,hyderabad,3943323.0,217.0,18172.0,1164188.0,telangana,TG,hyderabad,151.0,21.0,553.0,381.0
 28.0,537.0,andhra pradesh,rangareddy,5296741.0,7493.0,707.0,815802.0,,,,,,,
 28.0,538.0,andhra pradesh,mahbubnagar,4053028.0,18432.0,220.0,138694.0,,,,,,,
 28.0,539.0,andhra pradesh,nalgonda,3488809.0,14240.0,245.0,163134.0,telangana,TG,nalgonda,11.0,0.0,17.0,6.0
@@ -544,150 +545,159 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 28.0,541.0,andhra pradesh,khammam,2797370.0,16029.0,175.0,192734.0,telangana,TG,khammam,1.0,0.0,8.0,7.0
 28.0,542.0,andhra pradesh,srikakulam,2703114.0,5837.0,463.0,145585.0,andhra pradesh,AP,srikakulam,0.0,0.0,5.0,5.0
 28.0,543.0,andhra pradesh,vizianagaram,2344474.0,6539.0,359.0,219854.0,,,,,,,
-28.0,544.0,andhra pradesh,visakhapatnam,4290589.0,11161.0,384.0,698745.0,andhra pradesh,AP,visakhapatnam,20.0,0.0,23.0,3.0
-28.0,545.0,andhra pradesh,east godavari,5154296.0,10807.0,477.0,446216.0,andhra pradesh,AP,east godavari,14.0,0.0,42.0,28.0
-28.0,546.0,andhra pradesh,west godavari,3936966.0,7742.0,509.0,284680.0,andhra pradesh,AP,west godavari,11.0,0.0,56.0,45.0
-28.0,547.0,andhra pradesh,krishna,4517398.0,8727.0,518.0,433413.0,andhra pradesh,AP,krishna,32.0,8.0,246.0,206.0
-28.0,548.0,andhra pradesh,guntur,4887813.0,11391.0,429.0,648886.0,andhra pradesh,AP,guntur,87.0,8.0,287.0,192.0
-28.0,549.0,andhra pradesh,prakasam,3397448.0,17626.0,193.0,180809.0,andhra pradesh,AP,prakasam,23.0,0.0,60.0,37.0
-28.0,550.0,andhra pradesh,sri potti sriramulu nellore,2963557.0,13076.0,227.0,228984.0,andhra pradesh,AP,s.p.s. nellore,27.0,2.0,84.0,55.0
-28.0,551.0,andhra pradesh,y.s.r.,2882469.0,15359.0,188.0,313143.0,andhra pradesh,AP,y.s.r.,28.0,0.0,73.0,45.0
-28.0,552.0,andhra pradesh,kurnool,4053463.0,17658.0,230.0,447955.0,andhra pradesh,AP,kurnool,43.0,9.0,386.0,334.0
-28.0,553.0,andhra pradesh,anantapur,4081148.0,19130.0,213.0,389660.0,andhra pradesh,AP,anantapur,20.0,4.0,61.0,37.0
-28.0,554.0,andhra pradesh,chittoor,4174064.0,15152.0,275.0,252117.0,andhra pradesh,AP,chittoor,16.0,0.0,80.0,64.0
+28.0,544.0,andhra pradesh,visakhapatnam,4290589.0,11161.0,384.0,698745.0,andhra pradesh,AP,visakhapatnam,20.0,0.0,29.0,9.0
+28.0,545.0,andhra pradesh,east godavari,5154296.0,10807.0,477.0,446216.0,andhra pradesh,AP,east godavari,17.0,0.0,45.0,28.0
+28.0,546.0,andhra pradesh,west godavari,3936966.0,7742.0,509.0,284680.0,andhra pradesh,AP,west godavari,26.0,0.0,59.0,33.0
+28.0,547.0,andhra pradesh,krishna,4517398.0,8727.0,518.0,433413.0,andhra pradesh,AP,krishna,44.0,8.0,258.0,206.0
+28.0,548.0,andhra pradesh,guntur,4887813.0,11391.0,429.0,648886.0,andhra pradesh,AP,guntur,97.0,8.0,308.0,203.0
+28.0,549.0,andhra pradesh,prakasam,3397448.0,17626.0,193.0,180809.0,andhra pradesh,AP,prakasam,42.0,0.0,61.0,19.0
+28.0,550.0,andhra pradesh,sri potti sriramulu nellore,2963557.0,13076.0,227.0,228984.0,andhra pradesh,AP,s.p.s. nellore,44.0,3.0,90.0,43.0
+28.0,551.0,andhra pradesh,y.s.r.,2882469.0,15359.0,188.0,313143.0,,,,,,,
+28.0,552.0,andhra pradesh,kurnool,4053463.0,17658.0,230.0,447955.0,andhra pradesh,AP,kurnool,66.0,10.0,436.0,360.0
+28.0,553.0,andhra pradesh,anantapur,4081148.0,19130.0,213.0,389660.0,andhra pradesh,AP,anantapur,24.0,4.0,71.0,43.0
+28.0,554.0,andhra pradesh,chittoor,4174064.0,15152.0,275.0,252117.0,andhra pradesh,AP,chittoor,24.0,0.0,80.0,56.0
 29.0,555.0,karnataka,belgaum,4779661.0,13433.0,356.0,151479.0,,,,,,,
-29.0,556.0,karnataka,bagalkot,1889752.0,6552.0,288.0,99344.0,karnataka,KA,bagalkote,6.0,1.0,29.0,22.0
+29.0,556.0,karnataka,bagalkot,1889752.0,6552.0,288.0,99344.0,karnataka,KA,bagalkote,6.0,1.0,30.0,23.0
 29.0,557.0,karnataka,bijapur,2177331.0,10498.0,207.0,72505.0,,,,,,,
-29.0,558.0,karnataka,bidar,1703300.0,5448.0,313.0,63618.0,karnataka,KA,bidar,9.0,0.0,15.0,6.0
+29.0,558.0,karnataka,bidar,1703300.0,5448.0,313.0,63618.0,karnataka,KA,bidar,10.0,1.0,15.0,4.0
 29.0,559.0,karnataka,raichur,1928812.0,8442.0,228.0,124570.0,,,,,,,
 29.0,560.0,karnataka,koppal,1389920.0,5570.0,250.0,79906.0,,,,,,,
-29.0,561.0,karnataka,gadag,1064570.0,4657.0,229.0,68515.0,karnataka,KA,gadag,0.0,1.0,5.0,4.0
-29.0,562.0,karnataka,dharwad,1847023.0,4260.0,434.0,158410.0,karnataka,KA,dharwad,2.0,0.0,9.0,7.0
-29.0,563.0,karnataka,uttara kannada,1437169.0,10277.0,140.0,46366.0,karnataka,KA,uttara kannada,10.0,0.0,11.0,1.0
+29.0,561.0,karnataka,gadag,1064570.0,4657.0,229.0,68515.0,karnataka,KA,gadag,1.0,1.0,5.0,3.0
+29.0,562.0,karnataka,dharwad,1847023.0,4260.0,434.0,158410.0,karnataka,KA,dharwad,4.0,0.0,10.0,6.0
+29.0,563.0,karnataka,uttara kannada,1437169.0,10277.0,140.0,46366.0,karnataka,KA,uttara kannada,11.0,0.0,11.0,0.0
 29.0,564.0,karnataka,haveri,1597668.0,4823.0,331.0,74199.0,,,,,,,
 29.0,565.0,karnataka,bellary,2452595.0,8461.0,290.0,182126.0,,,,,,,
 29.0,566.0,karnataka,chitradurga,1659456.0,8436.0,197.0,82164.0,karnataka,KA,chitradurga,1.0,0.0,1.0,0.0
-29.0,567.0,karnataka,davanagere,1945497.0,5924.0,328.0,97027.0,karnataka,KA,davanagere,2.0,0.0,4.0,2.0
+29.0,567.0,karnataka,davanagere,1945497.0,5924.0,328.0,97027.0,karnataka,KA,davanagere,2.0,1.0,10.0,7.0
 29.0,568.0,karnataka,shimoga,1752753.0,8478.0,207.0,190730.0,,,,,,,
 29.0,569.0,karnataka,udupi,1177361.0,3582.0,329.0,10737.0,karnataka,KA,udupi,3.0,0.0,3.0,0.0
 29.0,570.0,karnataka,chikmagalur,1137961.0,7202.0,158.0,35218.0,,,,,,,
-29.0,571.0,karnataka,tumkur,2678980.0,10597.0,253.0,157826.0,karnataka,KA,tumakuru,1.0,2.0,5.0,2.0
-29.0,572.0,karnataka,bangalore,9621551.0,2196.0,4381.0,717658.0,karnataka,KA,bengaluru,62.0,5.0,145.0,78.0
-29.0,573.0,karnataka,mandya,1805769.0,4962.0,364.0,41685.0,karnataka,KA,mandya,4.0,0.0,18.0,14.0
+29.0,571.0,karnataka,tumkur,2678980.0,10597.0,253.0,157826.0,karnataka,KA,tumakuru,1.0,2.0,7.0,4.0
+29.0,572.0,karnataka,bangalore,9621551.0,2196.0,4381.0,717658.0,,,,,,,
+29.0,573.0,karnataka,mandya,1805769.0,4962.0,364.0,41685.0,karnataka,KA,mandya,4.0,0.0,26.0,22.0
 29.0,574.0,karnataka,hassan,1776421.0,6814.0,261.0,102211.0,,,,,,,
-29.0,575.0,karnataka,dakshina kannada,2089649.0,4861.0,430.0,14843.0,karnataka,KA,dakshina kannada,11.0,3.0,21.0,7.0
+29.0,575.0,karnataka,dakshina kannada,2089649.0,4861.0,430.0,14843.0,karnataka,KA,dakshina kannada,6.0,3.0,18.0,9.0
 29.0,576.0,karnataka,kodagu,554519.0,4102.0,135.0,11893.0,karnataka,KA,kodagu,1.0,0.0,1.0,0.0
-29.0,577.0,karnataka,mysore,3001127.0,6307.0,476.0,141699.0,karnataka,KA,mysuru,58.0,0.0,90.0,32.0
+29.0,577.0,karnataka,mysore,3001127.0,6307.0,476.0,141699.0,karnataka,KA,mysuru,64.0,0.0,88.0,24.0
 29.0,578.0,karnataka,chamarajanagar,1020791.0,5648.0,181.0,39288.0,,,,,,,
 29.0,579.0,karnataka,gulbarga,2566326.0,10954.0,234.0,143627.0,,,,,,,
 29.0,580.0,karnataka,yadgir,1174271.0,5270.0,223.0,77679.0,,,,,,,
 29.0,581.0,karnataka,kolar,1536401.0,3979.0,386.0,86536.0,,,,,,,
-29.0,582.0,karnataka,chikkaballapura,1255104.0,4244.0,296.0,80112.0,karnataka,KA,chikkaballapura,11.0,2.0,18.0,5.0
-29.0,583.0,karnataka,bangalore rural,990923.0,2298.0,431.0,41005.0,karnataka,KA,bengaluru rural,9.0,0.0,12.0,3.0
+29.0,582.0,karnataka,chikkaballapura,1255104.0,4244.0,296.0,80112.0,karnataka,KA,chikkaballapura,11.0,2.0,20.0,7.0
+29.0,583.0,karnataka,bangalore rural,990923.0,2298.0,431.0,41005.0,karnataka,KA,bengaluru rural,6.0,0.0,6.0,0.0
 29.0,584.0,karnataka,ramanagara,1082636.0,3516.0,308.0,40207.0,,,,,,,
 30.0,585.0,goa,north goa,818008.0,1736.0,471.0,982.0,goa,GA,north goa,6.0,0.0,6.0,0.0
 30.0,586.0,goa,south goa,640537.0,1966.0,326.0,25868.0,goa,GA,south goa,1.0,0.0,1.0,0.0
 31.0,587.0,lakshadweep,lakshadweep,64473.0,30.0,2149.0,,,,,,,,
-32.0,588.0,kerala,kasaragod,1307375.0,1989.0,657.0,6448.0,kerala,KL,kasaragod,167.0,0.0,179.0,12.0
-32.0,589.0,kerala,kannur,2523003.0,2961.0,852.0,,kerala,KL,kannur,68.0,1.0,115.0,46.0
-32.0,590.0,kerala,wayanad,817420.0,2130.0,384.0,,kerala,KL,wayanad,3.0,0.0,3.0,0.0
-32.0,591.0,kerala,kozhikode,3086293.0,2345.0,1316.0,36661.0,kerala,KL,kozhikode,23.0,0.0,24.0,1.0
+32.0,588.0,kerala,kasaragod,1307375.0,1989.0,657.0,6448.0,kerala,KL,kasaragod,172.0,0.0,179.0,7.0
+32.0,589.0,kerala,kannur,2523003.0,2961.0,852.0,,kerala,KL,kannur,78.0,1.0,116.0,37.0
+32.0,590.0,kerala,wayanad,817420.0,2130.0,384.0,,kerala,KL,wayanad,3.0,0.0,4.0,1.0
+32.0,591.0,kerala,kozhikode,3086293.0,2345.0,1316.0,36661.0,kerala,KL,kozhikode,21.0,0.0,24.0,3.0
 32.0,592.0,kerala,malappuram,4112920.0,3554.0,1157.0,,kerala,KL,malappuram,21.0,1.0,24.0,2.0
 32.0,593.0,kerala,palakkad,2809934.0,4482.0,627.0,53959.0,kerala,KL,palakkad,11.0,0.0,13.0,2.0
 32.0,594.0,kerala,thrissur,3121200.0,3027.0,1031.0,19725.0,kerala,KL,thrissur,13.0,0.0,13.0,0.0
-32.0,595.0,kerala,ernakulam,3282388.0,3063.0,1072.0,12797.0,kerala,KL,ernakulam,21.0,1.0,24.0,2.0
-32.0,596.0,kerala,idukki,1108974.0,4356.0,255.0,224.0,kerala,KL,idukki,10.0,0.0,24.0,14.0
+32.0,595.0,kerala,ernakulam,3282388.0,3063.0,1072.0,12797.0,kerala,KL,ernakulam,23.0,1.0,24.0,0.0
+32.0,596.0,kerala,idukki,1108974.0,4356.0,255.0,224.0,kerala,KL,idukki,12.0,0.0,24.0,12.0
 32.0,597.0,kerala,kottayam,1974551.0,2206.0,895.0,7451.0,kerala,KL,kottayam,3.0,0.0,20.0,17.0
 32.0,598.0,kerala,alappuzha,2127789.0,1415.0,1504.0,10245.0,kerala,KL,alappuzha,5.0,0.0,5.0,0.0
 32.0,599.0,kerala,pathanamthitta,1197412.0,2652.0,452.0,,kerala,KL,pathanamthitta,16.0,0.0,17.0,1.0
-32.0,600.0,kerala,kollam,2635375.0,2483.0,1061.0,13580.0,kerala,KL,kollam,11.0,0.0,23.0,12.0
-32.0,601.0,kerala,thiruvananthapuram,3301427.0,2189.0,1508.0,26475.0,kerala,KL,thiruvananthapuram,15.0,1.0,17.0,1.0
-33.0,602.0,tamil nadu,thiruvallur,3728104.0,3394.0,1098.0,344216.0,tamil nadu,TN,thiruvallur,30.0,0.0,56.0,26.0
-33.0,603.0,tamil nadu,chennai,4646732.0,175.0,26553.0,1259868.0,tamil nadu,TN,chennai,214.0,15.0,910.0,681.0
-33.0,604.0,tamil nadu,kancheepuram,3998252.0,4483.0,892.0,285803.0,tamil nadu,TN,kancheepuram,9.0,1.0,25.0,15.0
-33.0,605.0,tamil nadu,vellore,3936331.0,6075.0,648.0,239317.0,tamil nadu,TN,vellore,14.0,1.0,23.0,8.0
+32.0,600.0,kerala,kollam,2635375.0,2483.0,1061.0,13580.0,kerala,KL,kollam,8.0,0.0,20.0,12.0
+32.0,601.0,kerala,thiruvananthapuram,3301427.0,2189.0,1508.0,26475.0,kerala,KL,thiruvananthapuram,14.0,1.0,17.0,2.0
+33.0,602.0,tamil nadu,thiruvallur,3728104.0,3394.0,1098.0,344216.0,tamil nadu,TN,thiruvallur,45.0,0.0,70.0,25.0
+33.0,603.0,tamil nadu,chennai,4646732.0,175.0,26553.0,1259868.0,tamil nadu,TN,chennai,223.0,17.0,1260.0,1020.0
+33.0,604.0,tamil nadu,kancheepuram,3998252.0,4483.0,892.0,285803.0,tamil nadu,TN,kancheepuram,9.0,1.0,40.0,30.0
+33.0,605.0,tamil nadu,vellore,3936331.0,6075.0,648.0,239317.0,tamil nadu,TN,vellore,16.0,1.0,23.0,6.0
 33.0,606.0,tamil nadu,tiruvannamalai,2464875.0,6188.0,398.0,88925.0,tamil nadu,TN,tiruvannamalai,10.0,0.0,11.0,1.0
-33.0,607.0,tamil nadu,viluppuram,3458873.0,7194.0,481.0,91148.0,tamil nadu,TN,viluppuram,23.0,2.0,54.0,29.0
-33.0,608.0,tamil nadu,salem,3482056.0,5237.0,665.0,331140.0,tamil nadu,TN,salem,23.0,0.0,32.0,9.0
-33.0,609.0,tamil nadu,namakkal,1726601.0,3420.0,505.0,97534.0,tamil nadu,TN,namakkal,49.0,0.0,61.0,12.0
+33.0,607.0,tamil nadu,viluppuram,3458873.0,7194.0,481.0,91148.0,tamil nadu,TN,viluppuram,27.0,2.0,57.0,28.0
+33.0,608.0,tamil nadu,salem,3482056.0,5237.0,665.0,331140.0,tamil nadu,TN,salem,24.0,0.0,33.0,9.0
+33.0,609.0,tamil nadu,namakkal,1726601.0,3420.0,505.0,97534.0,tamil nadu,TN,namakkal,50.0,0.0,61.0,11.0
 33.0,610.0,tamil nadu,erode,2251744.0,5760.0,391.0,167032.0,tamil nadu,TN,erode,69.0,1.0,70.0,0.0
 33.0,611.0,tamil nadu,the nilgiris,735394.0,2565.0,287.0,76390.0,tamil nadu,TN,the nilgiris,9.0,0.0,9.0,0.0
-33.0,612.0,tamil nadu,dindigul,2159775.0,6036.0,358.0,207610.0,tamil nadu,TN,dindigul,71.0,1.0,80.0,8.0
-33.0,613.0,tamil nadu,karur,1064493.0,2904.0,367.0,59738.0,tamil nadu,TN,karur,41.0,0.0,41.0,0.0
-33.0,614.0,tamil nadu,tiruchirappalli,2722290.0,4509.0,604.0,244000.0,tamil nadu,TN,tiruchirappalli,45.0,0.0,51.0,6.0
-33.0,615.0,tamil nadu,perambalur,565223.0,1756.0,322.0,13059.0,tamil nadu,TN,perambalur,1.0,0.0,9.0,8.0
-33.0,616.0,tamil nadu,ariyalur,754894.0,1940.0,389.0,15447.0,tamil nadu,TN,ariyalur,4.0,0.0,6.0,2.0
-33.0,617.0,tamil nadu,cuddalore,2605914.0,3703.0,704.0,171648.0,tamil nadu,TN,cuddalore,21.0,0.0,27.0,6.0
-33.0,618.0,tamil nadu,nagapattinam,1616450.0,2569.0,629.0,88239.0,tamil nadu,TN,nagapattinam,35.0,0.0,44.0,9.0
-33.0,619.0,tamil nadu,thiruvarur,1264277.0,2274.0,556.0,61431.0,tamil nadu,TN,thiruvarur,16.0,0.0,30.0,14.0
-33.0,620.0,tamil nadu,thanjavur,2405890.0,3411.0,705.0,171754.0,tamil nadu,TN,thanjavur,35.0,0.0,54.0,19.0
+33.0,612.0,tamil nadu,dindigul,2159775.0,6036.0,358.0,207610.0,tamil nadu,TN,dindigul,72.0,1.0,81.0,8.0
+33.0,613.0,tamil nadu,karur,1064493.0,2904.0,367.0,59738.0,tamil nadu,TN,karur,42.0,0.0,42.0,0.0
+33.0,614.0,tamil nadu,tiruchirappalli,2722290.0,4509.0,604.0,244000.0,tamil nadu,TN,tiruchirappalli,46.0,0.0,51.0,5.0
+33.0,615.0,tamil nadu,perambalur,565223.0,1756.0,322.0,13059.0,tamil nadu,TN,perambalur,3.0,0.0,11.0,8.0
+33.0,616.0,tamil nadu,ariyalur,754894.0,1940.0,389.0,15447.0,tamil nadu,TN,ariyalur,6.0,0.0,25.0,19.0
+33.0,617.0,tamil nadu,cuddalore,2605914.0,3703.0,704.0,171648.0,tamil nadu,TN,cuddalore,26.0,0.0,30.0,4.0
+33.0,618.0,tamil nadu,nagapattinam,1616450.0,2569.0,629.0,88239.0,tamil nadu,TN,nagapattinam,42.0,0.0,45.0,3.0
+33.0,619.0,tamil nadu,thiruvarur,1264277.0,2274.0,556.0,61431.0,tamil nadu,TN,thiruvarur,18.0,0.0,30.0,12.0
+33.0,620.0,tamil nadu,thanjavur,2405890.0,3411.0,705.0,171754.0,tamil nadu,TN,thanjavur,38.0,0.0,56.0,18.0
 33.0,621.0,tamil nadu,pudukkottai,1618345.0,4644.0,348.0,63036.0,tamil nadu,TN,pudukkottai,0.0,0.0,1.0,1.0
-33.0,622.0,tamil nadu,sivaganga,1339101.0,4233.0,316.0,60296.0,tamil nadu,TN,sivaganga,10.0,0.0,12.0,2.0
-33.0,623.0,tamil nadu,madurai,3038252.0,3710.0,819.0,351190.0,tamil nadu,TN,madurai,40.0,2.0,84.0,42.0
-33.0,624.0,tamil nadu,theni,1245899.0,2868.0,434.0,160894.0,tamil nadu,TN,theni,37.0,1.0,44.0,6.0
+33.0,622.0,tamil nadu,sivaganga,1339101.0,4233.0,316.0,60296.0,tamil nadu,TN,sivaganga,11.0,0.0,12.0,1.0
+33.0,623.0,tamil nadu,madurai,3038252.0,3710.0,819.0,351190.0,tamil nadu,TN,madurai,42.0,2.0,88.0,44.0
+33.0,624.0,tamil nadu,theni,1245899.0,2868.0,434.0,160894.0,tamil nadu,TN,theni,42.0,1.0,44.0,1.0
 33.0,625.0,tamil nadu,virudhunagar,1942288.0,4241.0,458.0,171935.0,tamil nadu,TN,virudhunagar,19.0,0.0,32.0,13.0
-33.0,626.0,tamil nadu,ramanathapuram,1353445.0,4104.0,330.0,60252.0,tamil nadu,TN,ramanathapuram,10.0,0.0,18.0,8.0
-33.0,627.0,tamil nadu,thoothukkudi,1750176.0,4745.0,369.0,137115.0,tamil nadu,TN,thoothukkudi,25.0,2.0,27.0,0.0
-33.0,628.0,tamil nadu,tirunelveli,3077233.0,6693.0,460.0,211964.0,tamil nadu,TN,tirunelveli,54.0,0.0,65.0,11.0
-33.0,629.0,tamil nadu,kanniyakumari,1870374.0,1684.0,1111.0,66180.0,tamil nadu,TN,kanniyakumari,10.0,0.0,16.0,6.0
+33.0,626.0,tamil nadu,ramanathapuram,1353445.0,4104.0,330.0,60252.0,tamil nadu,TN,ramanathapuram,11.0,0.0,20.0,9.0
+33.0,627.0,tamil nadu,thoothukkudi,1750176.0,4745.0,369.0,137115.0,tamil nadu,TN,thoothukkudi,26.0,1.0,27.0,0.0
+33.0,628.0,tamil nadu,tirunelveli,3077233.0,6693.0,460.0,211964.0,tamil nadu,TN,tirunelveli,57.0,0.0,65.0,8.0
+33.0,629.0,tamil nadu,kanniyakumari,1870374.0,1684.0,1111.0,66180.0,,,,,,,
 33.0,630.0,tamil nadu,dharmapuri,1506843.0,4497.0,335.0,46838.0,tamil nadu,TN,dharmapuri,0.0,0.0,1.0,1.0
 33.0,631.0,tamil nadu,krishnagiri,1879809.0,5129.0,367.0,69767.0,,,,,,,
-33.0,632.0,tamil nadu,coimbatore,3458045.0,4732.0,731.0,281165.0,tamil nadu,TN,coimbatore,125.0,0.0,141.0,16.0
-33.0,633.0,tamil nadu,tiruppur,2479052.0,5187.0,478.0,291673.0,tamil nadu,TN,tiruppur,103.0,0.0,112.0,9.0
+33.0,632.0,tamil nadu,coimbatore,3458045.0,4732.0,731.0,281165.0,tamil nadu,TN,coimbatore,127.0,0.0,142.0,15.0
+33.0,633.0,tamil nadu,tiruppur,2479052.0,5187.0,478.0,291673.0,tamil nadu,TN,tiruppur,108.0,0.0,114.0,6.0
 34.0,634.0,puducherry,yanam,55626.0,30.0,1854.0,3251.0,,,,,,,
 34.0,635.0,puducherry,puducherry,950289.0,294.0,3232.0,31292.0,puducherry,PY,puducherry,4.0,0.0,7.0,3.0
 34.0,636.0,puducherry,mahe,41816.0,9.0,4646.0,395.0,puducherry,PY,mahe,1.0,0.0,1.0,0.0
 34.0,637.0,puducherry,karaikal,200222.0,157.0,1275.0,17040.0,,,,,,,
 35.0,638.0,andaman & nicobar islands,nicobars,36842.0,1841.0,20.0,,,,,,,,
 35.0,639.0,andaman & nicobar islands,north  & middle andaman,105597.0,3736.0,28.0,,,,,,,,
-35.0,640.0,andaman & nicobar islands,south andaman,238142.0,2672.0,89.0,10510.0,andaman and nicobar islands,AN,south andaman,15.0,0.0,32.0,17.0
+35.0,640.0,andaman & nicobar islands,south andaman,238142.0,2672.0,89.0,10510.0,andaman and nicobar islands,AN,south andaman,16.0,0.0,32.0,16.0
+,,haryana,charkhi dadri,,,,,haryana,HR,charkhi dadri,1.0,0.0,1.0,0.0
+,,haryana,nuh,,,,,haryana,HR,nuh,53.0,0.0,58.0,5.0
+,,maharashtra,other states,,,,,maharashtra,MH,other states,0.0,3.0,27.0,24.0
+,,maharashtra,ahmednagar,,,,,maharashtra,MH,ahmednagar,23.0,2.0,42.0,17.0
+,,maharashtra,beed,,,,,maharashtra,MH,beed,1.0,0.0,1.0,0.0
+,,maharashtra,buldhana,,,,,maharashtra,MH,buldhana,19.0,1.0,21.0,1.0
+,,maharashtra,gondia,,,,,maharashtra,MH,gondia,1.0,0.0,1.0,0.0
+,,maharashtra,palghar,,,,,maharashtra,MH,palghar,55.0,4.0,179.0,120.0
+,,maharashtra,raigad,,,,,maharashtra,MH,raigad,26.0,3.0,74.0,45.0
+,,madhya pradesh,agar malwa,,,,,madhya pradesh,MP,agar malwa,0.0,1.0,12.0,11.0
+,,rajasthan,chittorgarh,,,,,rajasthan,RJ,chittorgarh,0.0,1.0,27.0,26.0
+,,rajasthan,dholpur,,,,,rajasthan,RJ,dholpur,1.0,0.0,12.0,11.0
 ,,andaman & nicobar islands,north and middle andaman,,,,,andaman and nicobar islands,AN,north and middle andaman,1.0,0.0,1.0,0.0
-,,assam,south salmara mancachar,,,,,assam,AS,south salmara mancachar,1.0,0.0,1.0,0.0
-,,assam,unknown,,,,,assam,AS,unknown,21.0,0.0,1.0,0.0
-,,chhattisgarh,surajpur,,,,,chhattisgarh,CT,surajpur,0.0,0.0,3.0,3.0
+,,andhra pradesh,y.s.r kadapa,,,,,andhra pradesh,AP,y.s.r kadapa,37.0,0.0,83.0,46.0
+,,bihar,kaimur,,,,,bihar,BR,kaimur,0.0,0.0,27.0,27.0
+,,chhattisgarh,surajpur,,,,,chhattisgarh,CT,surajpur,0.0,0.0,6.0,6.0
 ,,nct of delhi,shahdara,,,,,delhi,DL,shahdara,0.0,0.0,48.0,48.0
 ,,nct of delhi,south east delhi,,,,,delhi,DL,south east delhi,0.0,0.0,130.0,130.0
-,,nct of delhi,unknown,,,,,delhi,DL,unknown,1094.0,59.0,2727.0,0.0
-,,gujarat,aravalli,,,,,gujarat,GJ,aravalli,0.0,1.0,19.0,18.0
-,,gujarat,botad,,,,,gujarat,GJ,botad,2.0,1.0,20.0,17.0
-,,gujarat,chota udaipur,,,,,gujarat,GJ,chota udaipur,6.0,0.0,13.0,7.0
-,,gujarat,gir somnath,,,,,gujarat,GJ,gir somnath,2.0,0.0,3.0,1.0
-,,gujarat,mahisagar,,,,,gujarat,GJ,mahisagar,5.0,0.0,11.0,6.0
+,,gujarat,ahmedabad,,,,,gujarat,GJ,ahmedabad,462.0,185.0,3543.0,2896.0
+,,gujarat,aravalli,,,,,gujarat,GJ,aravalli,6.0,1.0,19.0,12.0
+,,gujarat,banaskantha,,,,,gujarat,GJ,banaskantha,14.0,1.0,29.0,14.0
+,,gujarat,botad,,,,,gujarat,GJ,botad,2.0,1.0,27.0,24.0
+,,gujarat,chhota udaipur,,,,,gujarat,GJ,chhota udaipur,6.0,0.0,14.0,8.0
+,,gujarat,gir somnath,,,,,gujarat,GJ,gir somnath,3.0,0.0,3.0,0.0
+,,gujarat,kutch,,,,,gujarat,GJ,kutch,5.0,1.0,7.0,1.0
+,,gujarat,mehsana,,,,,gujarat,GJ,mehsana,7.0,0.0,11.0,4.0
+,,gujarat,mahisagar,,,,,gujarat,GJ,mahisagar,5.0,0.0,23.0,18.0
 ,,gujarat,morbi,,,,,gujarat,GJ,morbi,1.0,0.0,1.0,0.0
+,,gujarat,panchmahal,,,,,gujarat,GJ,panchmahal,5.0,3.0,38.0,30.0
+,,gujarat,sabarkantha,,,,,gujarat,GJ,sabarkantha,3.0,0.0,3.0,0.0
 ,,gujarat,dang,,,,,gujarat,GJ,dang,0.0,0.0,2.0,2.0
-,,haryana,charki dadri,,,,,haryana,HR,charki dadri,1.0,0.0,1.0,0.0
-,,haryana,nuh,,,,,haryana,HR,nuh,50.0,0.0,58.0,8.0
-,,haryana,italians,,,,,haryana,HR,italians,14.0,0.0,14.0,0.0
-,,karnataka,ballari,,,,,karnataka,KA,ballari,5.0,0.0,13.0,8.0
-,,karnataka,belagavi,,,,,karnataka,KA,belagavi,7.0,1.0,69.0,61.0
-,,karnataka,kalaburagi,,,,,karnataka,KA,kalaburagi,7.0,5.0,53.0,41.0
-,,karnataka,vijayapura,,,,,karnataka,KA,vijayapura,6.0,2.0,43.0,35.0
-,,karnataka,unknown,,,,,karnataka,KA,unknown,14.0,0.0,0.0,0.0
-,,kerala,unknown,,,,,kerala,KL,unknown,-4.0,0.0,-3.0,0.0
-,,ladakh,kargil,,,,,ladakh,LA,kargil,4.0,0.0,7.0,3.0
-,,ladakh,leh(ladakh),,,,,ladakh,LA,leh,13.0,0.0,15.0,2.0
-,,madhya pradesh,agar malwa,,,,,madhya pradesh,MP,agar malwa,0.0,1.0,12.0,11.0
-,,madhya pradesh,other region,,,,,madhya pradesh,MP,other region,0.0,0.0,2.0,2.0
-,,maharashtra,palghar,,,,,maharashtra,MH,palghar,46.0,4.0,169.0,119.0
-,,maharashtra,other states,,,,,maharashtra,MH,other states,0.0,2.0,26.0,24.0
-,,meghalaya,unknown,,,,,meghalaya,ML,unknown,0.0,0.0,1.0,0.0
+,,jharkhand,koderma,,,,,jharkhand,JH,koderma,0.0,0.0,1.0,1.0
+,,karnataka,ballari,,,,,karnataka,KA,ballari,7.0,0.0,13.0,6.0
+,,karnataka,belagavi,,,,,karnataka,KA,belagavi,15.0,1.0,71.0,55.0
+,,karnataka,bengaluru urban,,,,,karnataka,KA,bengaluru urban,71.0,6.0,145.0,67.0
+,,karnataka,kalaburagi,,,,,karnataka,KA,kalaburagi,18.0,5.0,55.0,32.0
+,,karnataka,vijayapura,,,,,karnataka,KA,vijayapura,11.0,2.0,46.0,33.0
+,,odisha,balasore,,,,,odisha,OR,balasore,3.0,0.0,20.0,17.0
+,,odisha,deogarh,,,,,odisha,OR,deogarh,0.0,0.0,1.0,1.0
+,,odisha,jajpur,,,,,odisha,OR,jajpur,1.0,0.0,48.0,47.0
+,,punjab,fazilka,,,,,punjab,PB,fazilka,0.0,0.0,4.0,4.0
 ,,punjab,pathankot,,,,,punjab,PB,pathankot,9.0,1.0,25.0,15.0
-,,punjab,sri muktsar sahib,,,,,punjab,PB,sri muktsar sahib,0.0,0.0,4.0,4.0
-,,rajasthan,italians,,,,,rajasthan,RJ,italians,2.0,0.0,2.0,0.0
-,,rajasthan,evacuees,,,,,rajasthan,RJ,evacuees,34.0,0.0,61.0,27.0
-,,rajasthan,other state,,,,,rajasthan,RJ,other state,0.0,2.0,0.0,-2.0
-,,tamil nadu,chengalpattu,,,,,tamil nadu,TN,chengalpattu,48.0,1.0,76.0,27.0
+,,punjab,sri muktsar sahib,,,,,punjab,PB,sri muktsar sahib,1.0,0.0,7.0,6.0
+,,tamil nadu,kanyakumari,,,,,tamil nadu,TN,kanyakumari,10.0,0.0,16.0,6.0
+,,tamil nadu,tenkasi,,,,,tamil nadu,TN,tenkasi,11.0,0.0,35.0,24.0
+,,tamil nadu,chengalpattu,,,,,tamil nadu,TN,chengalpattu,48.0,2.0,89.0,39.0
+,,tamil nadu,ranipet,,,,,tamil nadu,TN,ranipet,34.0,0.0,39.0,5.0
 ,,tamil nadu,kallakurichi,,,,,tamil nadu,TN,kallakurichi,3.0,0.0,9.0,6.0
-,,tamil nadu,ranipet,,,,,tamil nadu,TN,ranipet,33.0,0.0,39.0,6.0
-,,tamil nadu,tenkasi,,,,,tamil nadu,TN,tenkasi,5.0,0.0,35.0,30.0
 ,,tamil nadu,tirupathur,,,,,tamil nadu,TN,tirupathur,17.0,0.0,18.0,1.0
 ,,andhra pradesh,bhadradri kothagudem,,,,,telangana,TG,bhadradri kothagudem,4.0,0.0,4.0,0.0
-,,andhra pradesh,jagitial,,,,,telangana,TG,jagitial,2.0,0.0,3.0,1.0
+,,andhra pradesh,jagtial,,,,,telangana,TG,jagtial,2.0,0.0,3.0,1.0
 ,,andhra pradesh,jangoan,,,,,telangana,TG,jangoan,1.0,0.0,3.0,2.0
-,,andhra pradesh,jayashankar,,,,,telangana,TG,jayashankar,0.0,0.0,3.0,3.0
+,,andhra pradesh,jayashankar bhupalapally,,,,,telangana,TG,jayashankar bhupalapally,0.0,0.0,3.0,3.0
 ,,andhra pradesh,jogulamba gadwal,,,,,telangana,TG,jogulamba gadwal,9.0,1.0,45.0,35.0
 ,,andhra pradesh,kamareddy,,,,,telangana,TG,kamareddy,8.0,0.0,12.0,4.0
-,,andhra pradesh,kumuram bheem asifabad,,,,,telangana,TG,kumuram bheem asifabad,0.0,0.0,7.0,7.0
+,,andhra pradesh,komaram bheem,,,,,telangana,TG,komaram bheem,0.0,0.0,7.0,7.0
 ,,andhra pradesh,mahabubabad,,,,,telangana,TG,mahabubabad,1.0,0.0,1.0,0.0
 ,,andhra pradesh,mahabubnagar,,,,,telangana,TG,mahabubnagar,8.0,0.0,11.0,3.0
 ,,andhra pradesh,mancherial,,,,,telangana,TG,mancherial,0.0,1.0,1.0,0.0
@@ -698,22 +708,22 @@ State Code,District Code,State Name,District Name,District Population,Area In sq
 ,,andhra pradesh,nirmal,,,,,telangana,TG,nirmal,11.0,0.0,20.0,9.0
 ,,andhra pradesh,peddapalli,,,,,telangana,TG,peddapalli,1.0,0.0,2.0,1.0
 ,,andhra pradesh,rajanna sircilla,,,,,telangana,TG,rajanna sircilla,0.0,0.0,3.0,3.0
-,,andhra pradesh,ranga reddy,,,,,telangana,TG,ranga reddy,10.0,2.0,33.0,21.0
+,,andhra pradesh,ranga reddy,,,,,telangana,TG,ranga reddy,10.0,2.0,34.0,22.0
 ,,andhra pradesh,sangareddy,,,,,telangana,TG,sangareddy,5.0,0.0,7.0,2.0
 ,,andhra pradesh,siddipet,,,,,telangana,TG,siddipet,1.0,0.0,1.0,0.0
 ,,andhra pradesh,suryapet,,,,,telangana,TG,suryapet,4.0,0.0,83.0,79.0
 ,,andhra pradesh,vikarabad,,,,,telangana,TG,vikarabad,6.0,1.0,37.0,30.0
 ,,andhra pradesh,warangal urban,,,,,telangana,TG,warangal urban,22.0,0.0,27.0,5.0
-,,andhra pradesh,unknown,,,,,telangana,TG,unknown,126.0,0.0,29.0,0.0
 ,,tripura,gomati,,,,,tripura,TR,gomati,1.0,0.0,1.0,0.0
-,,uttar pradesh,amroha,,,,,uttar pradesh,UP,amroha,6.0,1.0,26.0,19.0
-,,uttar pradesh,bhadohi,,,,,uttar pradesh,UP,bhadohi,1.0,0.0,1.0,0.0
-,,uttar pradesh,hapur,,,,,uttar pradesh,UP,hapur,5.0,0.0,26.0,21.0
-,,uttar pradesh,hathras,,,,,uttar pradesh,UP,hathras,4.0,0.0,4.0,0.0
-,,uttar pradesh,kasganj,,,,,uttar pradesh,UP,kasganj,0.0,0.0,3.0,3.0
-,,uttar pradesh,prayagraj,,,,,uttar pradesh,UP,prayagraj,1.0,0.0,4.0,3.0
-,,uttar pradesh,sambhal,,,,,uttar pradesh,UP,sambhal,0.0,0.0,18.0,18.0
+,,uttar pradesh,amroha,,,,,uttar pradesh,UP,amroha,12.0,1.0,26.0,13.0
+,,uttar pradesh,barabanki,,,,,uttar pradesh,UP,barabanki,1.0,0.0,1.0,0.0
+,,uttar pradesh,bhadohi,,,,,uttar pradesh,UP,bhadohi,1.0,0.0,2.0,1.0
+,,uttar pradesh,hapur,,,,,uttar pradesh,UP,hapur,6.0,0.0,33.0,27.0
+,,uttar pradesh,hathras,,,,,uttar pradesh,UP,hathras,4.0,0.0,5.0,1.0
+,,uttar pradesh,kasganj,,,,,uttar pradesh,UP,kasganj,3.0,0.0,3.0,0.0
+,,uttar pradesh,lakhimpur kheri,,,,,uttar pradesh,UP,lakhimpur kheri,4.0,0.0,4.0,0.0
+,,uttar pradesh,maharajganj,,,,,uttar pradesh,UP,maharajganj,6.0,0.0,7.0,1.0
+,,uttar pradesh,prayagraj,,,,,uttar pradesh,UP,prayagraj,1.0,0.0,5.0,4.0
+,,uttar pradesh,sambhal,,,,,uttar pradesh,UP,sambhal,1.0,0.0,19.0,18.0
 ,,uttar pradesh,shamli,,,,,uttar pradesh,UP,shamli,24.0,0.0,27.0,3.0
 ,,uttar pradesh,ayodhya,,,,,uttar pradesh,UP,ayodhya,0.0,0.0,1.0,1.0
-,,uttarakhand,unknown,,,,,uttarakhand,UT,unknown,3.0,0.0,0.0,0.0
-,,west bengal,unknown,,,,,west bengal,WB,unknown,124.0,33.0,370.0,0.0

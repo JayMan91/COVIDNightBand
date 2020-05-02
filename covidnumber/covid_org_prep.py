@@ -1,10 +1,10 @@
-import json
 import pandas as pd
 import numpy as np
 import os
 import glob
-with open('/home/jayanta/Downloads/state_district_wise.json.1') as f:
-  data = json.load(f)
+import urllib.request, json 
+with urllib.request.urlopen("https://api.covid19india.org/v2/state_district_wise.json") as url:
+    data = json.loads(url.read().decode())
 
 def parse_covid(json_dict):
     n = len(json_dict)
@@ -72,26 +72,29 @@ slum_df['State Name'] =  slum_df['State Name'].str.strip()
 slum_df['District Name'] =slum_df['District Name'].str.strip()
 
 mapping = pd.read_csv("covid_mapping.csv")
-mapping_state = mapping[mapping.entity=="state"].drop(['entity'], axis=1)
-mapping_district = mapping[mapping.entity=="district"].drop(['entity'], axis=1)
+mapping_state = mapping[mapping.level=="state"].drop(['level',
+    'census_district','covid_district'], axis=1)
+mapping_district = mapping[mapping.level=="district"].drop(['level'], axis=1)
 
 covid_df = parse_covid(data)
 covid_df['state'] = covid_df['state'].str.lower()
 covid_df['district'] = covid_df['district'].str.lower()
 covid_df['state'] =  covid_df['state'].str.strip()
 covid_df['district'] = covid_df['district'].str.strip()
-covid_df = covid_df.merge(mapping_state,how='left',left_on='state',
-right_on='covid_col').rename(columns={'census_col':'State Name'}).drop(['covid_col'], axis=1)
-
-covid_df['State Name'] = np.where(covid_df['State Name'].isnull(),covid_df['state'],
-    covid_df['State Name'])
-covid_df = covid_df.merge(mapping_district,how='left',
-    left_on='district',
-     right_on='covid_col').rename(columns={'census_col':'District Name'}).drop(['covid_col'], 
-     axis=1)
-
+garbage_state = ['other state','unknown','other region','evacuees','italians']
+covid_df = covid_df[~covid_df['district'].isin(garbage_state)]
+covid_df = covid_df.merge(mapping_state,left_on='state',right_on='covid_state',
+        how='left').rename(columns={'census_state':'State Name'}).drop(['covid_state'], axis=1)
+covid_df['State Name'] = np.where(covid_df['State Name'].isnull(),
+    covid_df['state'],covid_df['State Name'])
+covid_df = covid_df.merge(mapping_district,left_on=['state',
+    'district'],right_on=['covid_state','covid_district'],
+        how='left').drop(['covid_state','census_state','covid_district'], 
+        axis=1).rename(columns={'census_district':'District Name'})
 covid_df['District Name'] = np.where(covid_df['District Name'].isnull(),
     covid_df['district'],covid_df['District Name'])
+
+
 
 merged_df = slum_df.merge(covid_df,on=['State Name','District Name'],how='outer')
 merged_df = merged_df.sort_values(by=['State Code',

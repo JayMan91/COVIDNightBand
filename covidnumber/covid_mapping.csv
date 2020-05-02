@@ -1,43 +1,40 @@
-covid_col,census_col,entity
-andaman and nicobar islands,andaman & nicobar islands,state
-delhi,nct of delhi,state
-jammu and kashmir,jammu & kashmir,state
-telangana,andhra pradesh,state
-s.p.s. nellore,sri potti sriramulu nellore,district
-east champaran,purba champaran,district
-kaimur bhabua,kaimur (bhabua),district
-west champaran,pashchim champaran,district
-central delhi,central,district
-east delhi,east,district
-north delhi,north,district
-north east delhi,north east,district
-north west delhi,north west,district
-south delhi,south,district
-south west delhi,south west,district
-west delhi,west,district
-dahod,dohad,district
-kachchh,kachchh,district
-gurugram,gurgaon,district
-bagalkote,bagalkot,district
-bengaluru,bangalore,district
-bengaluru rural,bangalore rural,district
-mysuru,mysore,district
-tumakuru,tumkur,district
-kargil,kargil,district
-leh,leh(ladakh),district
-khandwa,khandwa (east nimar),district
-khargone,khargone (west nimar),district
-s.a.s. nagar,sahibzada ajit singh nagar,district
-jhunjhunu,jhunjhunun,district
-haridwar,hardwar,district
-pauri garhwal,tehri garhwal,district
-darjeeling,darjiling,district
-hooghly,hugli,district
-howrah,haora,district
-kalimpong,darjiling,district
-medinipur east,purba medinipur,district
-north 24 parganas,north twenty four parganas,district
-paschim bardhaman,barddhaman,district
-purba bardhaman,barddhaman,district
-south 24 parganas,south twenty four parganas,district
-medinipur west,paschim medinipur,district
+census_state,covid_state,census_district,covid_district,level,comment
+andaman & nicobar islands,andaman and nicobar islands,,,state,spelling
+nct of delhi,delhi,,,state,spelling
+jammu & kashmir,jammu and kashmir,,,state,spelling
+andhra pradesh,telangana,,,state,new states
+jammu & kashmir,ladakh,,,state,new states
+andhra pradesh,andhra pradesh,sri potti sriramulu nellore,s.p.s. nellore,district,spelling
+bihar,bihar,purba champaran,east champaran,district,spelling
+bihar,bihar,pashchim champaran,west champaran,district,spelling
+nct of delhi,delhi,central,central delhi,district,spelling
+nct of delhi,delhi,east,east delhi,district,spelling
+nct of delhi,delhi,north,north delhi,district,spelling
+nct of delhi,delhi,north east,north east delhi,district,spelling
+nct of delhi,delhi,north west,north west delhi,district,spelling
+nct of delhi,delhi,south,south delhi,district,spelling
+nct of delhi,delhi,south west,south west delhi,district,spelling
+nct of delhi,delhi,west,west delhi,district,spelling
+gujarat,gujarat,dohad,dahod,district,spelling
+haryana,haryana,gurgaon,gurugram,district,spelling
+karnataka,karnataka,bagalkot,bagalkote,district,spelling
+karnataka,karnataka,bangalore rural,bengaluru rural,district,spelling
+karnataka,karnataka,mysore,mysuru,district,spelling
+karnataka,karnataka,tumkur,tumakuru,district,spelling
+jammu & kashmir,ladakh,kargil,kargil,district,spelling
+jammu & kashmir,ladakh,leh(ladakh),leh,district,spelling
+madhya pradesh,madhya pradesh,khandwa (east nimar),khandwa,district,spelling
+madhya pradesh,madhya pradesh,khargone (west nimar),khargone,district,spelling
+punjab,punjab,sahibzada ajit singh nagar,s.a.s. nagar,district,spelling
+rajasthan,rajasthan,jhunjhunun,jhunjhunu,district,spelling
+uttarakhand,uttarakhand,hardwar,haridwar,district,spelling
+uttarakhand,uttarakhand,tehri garhwal,pauri garhwal,district,spelling
+west bengal,west bengal,darjiling,darjeeling,district,spelling
+west bengal,west bengal,darjiling,kalimpong,district,new district
+west bengal,west bengal,hugli,hooghly,district,spelling
+west bengal,west bengal,haora,howrah,district,spelling
+west bengal,west bengal,north twenty four parganas,north 24 parganas,district,spelling
+west bengal,west bengal,barddhaman,paschim bardhaman,district,new district
+west bengal,west bengal,barddhaman,purba bardhaman,district,new district
+west bengal,west bengal,south twenty four parganas,south 24 parganas,district,spelling
+assam,assam,dhubri,south salmara mankachar,district,new district
